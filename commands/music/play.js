@@ -1,45 +1,45 @@
-const { SlashCommandBuilder } = require('@discordjs/builders');
-const { joinVoiceChannel, createAudioResource, StreamType, AudioPlayerStatus, createAudioPlayer } = require('@discordjs/voice');
-const { getTracks } = require('spotify-url-info');
+const { EmbedBuilder, SlashCommandBuilder } = require('discord.js');
+const client = require("../../index");
 
 module.exports = {
   data: new SlashCommandBuilder()
     .setName('play')
-    .setDescription('Plays a Spotify track from a URL')
-    .addStringOption(option => option.setName('url').setDescription('The Spotify track URL').setRequired(true)),
+    .setDescription('Play a song!')
+    .addStringOption(option =>
+      option.setName('song_link')
+        .setDescription('The song link')
+        .setRequired(true)
+    ),
+
   async execute(interaction) {
-    const url = interaction.options.getString('url');
-    const trackInfo = await getTracks(url);
-    const trackTitle = trackInfo.name;
 
-    if (!trackInfo || trackInfo.type !== 'track') {
-      await interaction.reply('Invalid Spotify track URL provided.');
-      return;
-    }
-
-    const voiceChannel = interaction.member.voice.channel;
+    const { options, member, guild, channel } = interaction;
+    const song = interaction.options.getString('song_link');
+    const voiceChannel = member.voice.channel;
+    
+    const embed = new EmbedBuilder();
 
     if (!voiceChannel) {
-      await interaction.reply('You need to be in a voice channel to use this command.');
-      return;
+        embed.setColor('#FF0000').setDescription("You must be in a voice channel to execute music commands.");
+        return interaction.reply({ embeds: [embed], ephemeral: true });
     }
 
-    const player = createAudioPlayer();
-    const resource = createAudioResource(trackInfo.preview_url, { inputType: StreamType.Arbitrary });
-    player.play(resource);
+    if (!member.voice.channelId == guild.members.me.voice.channelId) {
+        embed.setColor('#8b02e0').setDescription(`You can't use the music player as it is already active in <#${guild.members.me.voice.channelId}>`);
+        return interaction.reply({ embeds: [embed], ephemeral: true });
+    }
 
-    const connection = joinVoiceChannel({
-      channelId: voiceChannel.id,
-      guildId: interaction.guild.id,
-      adapterCreator: interaction.guild.voiceAdapterCreator,
-    });
+    try {
 
-    connection.subscribe(player);
+        client.distube.play(voiceChannel, query, { textChannel: channel, member: member });
+        return interaction.reply({ content: "🎶 Request received." });
 
-    await interaction.reply(`Now playing "${trackTitle}" in ${voiceChannel.name}`);
+    } catch (err) {
+        console.log(err);
 
-    player.on(AudioPlayerStatus.Idle, () => {
-      connection.destroy();
-    });
-  },
+        embed.setColor('#8b02e0').setDescription("⛔ | Something went wrong...");
+
+        return interaction.reply({ embeds: [embed], ephemeral: true });
+    }
+  }
 };
