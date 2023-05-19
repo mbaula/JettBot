@@ -6,8 +6,8 @@ let activeVoiceChannel = null; // Store the active voice channel
 
 module.exports = {
     data: new SlashCommandBuilder()
-        .setName("queue")
-        .setDescription("View the current queue."),
+        .setName("skip")
+        .setDescription("Skip a song."),
     async execute(interaction, client) {
     
         const { options, member, guild, channel } = interaction;
@@ -21,7 +21,7 @@ module.exports = {
         }
 
         if (activeVoiceChannel && activeVoiceChannel !== voiceChannel) {
-            embed.setColor('#FF0000').setDescription(`You can't queue as the music player is active in a different voice channel: <#${guild.members.me.voice.channelId}>`);
+            embed.setColor('#FF0000').setDescription(`You can't skip a song as the music player is active in a different voice channel: <#${guild.members.me.voice.channelId}>`);
             return interaction.reply({ embeds: [embed], ephemeral: true });
         }
 
@@ -38,9 +38,8 @@ module.exports = {
                 return interaction.reply({ embeds: [embed], ephemeral: true });
             }
 
-            embed.setColor('#90EE90').setDescription(`${queue.songs.slice(0, 5).map(
-                (song, id) => `\n**${id + 1}.** ${song.name} -\`${song.formattedDuration}\``
-            )}`);
+            await queue.skip(voiceChannel);
+            embed.setColor("#90EE90").setDescription("⏩ The song has been skipped.");
             return interaction.reply({ embeds: [embed], ephemeral: true });
 
         } catch (err) {

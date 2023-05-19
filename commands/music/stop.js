@@ -17,7 +17,6 @@ module.exports = {
 
         if (!voiceChannel) {
             embed.setColor('#FF0000').setDescription("You must be in a voice channel to execute music commands.");
-            console.log(voiceChannel);
             return interaction.reply({ embeds: [embed], ephemeral: true });
         }
 

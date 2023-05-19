@@ -18,7 +18,6 @@ module.exports = {
     const { options, member, guild, channel } = interaction;
     
     const queryOption = options.get('query');
-    console.log(options);
     const query = queryOption.value;
     const voiceChannel = member.voice.channel;
     
