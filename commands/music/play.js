@@ -1,6 +1,8 @@
 const { EmbedBuilder, SlashCommandBuilder } = require('discord.js');
 const client = require("../../index");
 
+let activeVoiceChannel = null; // Store the active voice channel
+
 module.exports = {
   data: new SlashCommandBuilder()
     .setName("play")
@@ -26,13 +28,16 @@ module.exports = {
         return interaction.reply({ embeds: [embed], ephemeral: true });
     }
 
-    if (!member.voice.channelId == guild.members.me.voice.channelId) {
+    if (activeVoiceChannel && activeVoiceChannel !== voiceChannel) {
         embed.setColor('#800080').setDescription(`You can't use the music player as it is already active in <#${guild.members.me.voice.channelId}>`);
         return interaction.reply({ embeds: [embed], ephemeral: true });
     }
 
     try {
-
+      // If the bot is not already connected to a voice channel, join the voice channel
+      if (!activeVoiceChannel) {
+        activeVoiceChannel = voiceChannel; // Set the active voice channel
+      }
         client.distube.play(voiceChannel, query, { textChannel: channel, member: member });
         return interaction.reply({ content: "🎶 Request received." });
 
