@@ -15,7 +15,7 @@
     "spotify-web-api-node": "^5.0.2",
     "youtube-sr": "^4.3.4"
   },
-  "name": "amplify",
+  "name": "janetBot",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {

@@ -13,6 +13,6 @@ module.exports = {
     else {
         result = rand < 0.5 ? 'heads' : 'tails';
     }
-    return interaction.reply(`The coin landed on ${result}!`);
+    return interaction.reply(`The coin has been flipped and, behold, it landed on ${result}! Isn't the universe full of delightful randomness?`);
   },
 };

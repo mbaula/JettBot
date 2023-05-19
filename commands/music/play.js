@@ -43,7 +43,7 @@ module.exports = {
     } catch (err) {
         console.log(err);
 
-        embed.setColor('#FF0000').setDescription("⛔ Something went wrong...");
+        embed.setColor('#FF0000').setDescription("⛔ Oh, dip! Something went wrong. My bad!");
 
         return interaction.reply({ embeds: [embed], ephemeral: true });
     }

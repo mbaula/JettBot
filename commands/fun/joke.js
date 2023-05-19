@@ -4,7 +4,7 @@ const { SlashCommandBuilder } = require('discord.js');
 module.exports = {
   data: new SlashCommandBuilder()
     .setName('joke')
-    .setDescription('Tells a random joke'),
+    .setDescription('Ask Janet a joke!'),
   async execute(interaction) {
     try {
       const response = await fetch('https://official-joke-api.appspot.com/random_joke');
@@ -12,10 +12,10 @@ module.exports = {
       const setup = json.setup;
       const punchline = json.punchline;
       const joke = `${setup} \n\n ${punchline}`;
-      return interaction.reply(joke);
+      return interaction.reply(`Okay, here's a good one: \n\n${joke}`);
     } catch (error) {
       console.error(error);
-      return interaction.reply('Oops! Something went wrong. Please try again later.');
+      return interaction.reply('Oops! It seems that my joke database is experiencing some cosmic interference. Please try again later.');
     }
   },
 };

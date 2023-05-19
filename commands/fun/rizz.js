@@ -3,7 +3,7 @@ const { SlashCommandBuilder } = require('discord.js');
 module.exports = {
     data: new SlashCommandBuilder()
       .setName('rizz')
-      .setDescription('Amplify rates your rizz!')
+      .setDescription('Janet rates your rizz!')
       .addUserOption(option => (
         option.setName('user')
           .setDescription('The user to rate')
@@ -18,13 +18,13 @@ module.exports = {
   
       // Generate the response message with the rating and the mentioned user's name
       if (rating <= 10) {
-        const response = `${user}'s @ has ${rating}/10 rizz`;
+        const response = `${user}'s @ has ${rating}/10 rizz. Not bad, but there's always room for improvement!`;
         return interaction.reply(response);
       } else if (rating === 11) {
-        const response = `${user}'s @ has L rizz! 🤮`;
+        const response = `${user}'s @ has L rizz! 🤮 It's definitely not the best, but hey, we all have our off days.`;
         return interaction.reply(response);
       } else {
-        const response = `${user}'s @ has UNLIMITED rizz! 🔥🔥🔥`;
+        const response = `${user}'s @ has UNLIMITED rizz! 🔥🔥🔥 It's pure perfection, a shining beacon in the universe! `;
         return interaction.reply(response);
       }
     },
