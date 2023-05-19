@@ -35,12 +35,11 @@ module.exports = {
     }
 
     try {
-      // If the bot is not already connected to a voice channel, join the voice channel
       if (!activeVoiceChannel) {
         activeVoiceChannel = voiceChannel; // Set the active voice channel
       }
-        client.distube.play(voiceChannel, query, { textChannel: channel, member: member });
-        return interaction.reply({ content: "🎶 Request received." });
+      client.distube.play(voiceChannel, query, { textChannel: channel, member: member });
+      return interaction.reply({ content: "🎶 Request received." });
 
     } catch (err) {
         console.log(err);

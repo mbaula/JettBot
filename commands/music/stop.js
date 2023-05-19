@@ -1,4 +1,4 @@
-const { EmbedBuilder, SlashCommandBuilder } = require('discord.js');
+const { EmbedBuilder, SlashCommandBuilder, VoiceChannel } = require('discord.js');
 const client = require("../../index");
 const { Options } = require('distube');
 
@@ -17,10 +17,20 @@ module.exports = {
 
         if (!voiceChannel) {
             embed.setColor('#FF0000').setDescription("You must be in a voice channel to execute music commands.");
+            console.log(voiceChannel);
+            return interaction.reply({ embeds: [embed], ephemeral: true });
+        }
+
+        if (activeVoiceChannel && activeVoiceChannel !== voiceChannel) {
+            embed.setColor('#FF0000').setDescription(`You can't stop the music player as it is active in a different voice channel: <#${guild.members.me.voice.channelId}>`);
             return interaction.reply({ embeds: [embed], ephemeral: true });
         }
 
         try {
+
+            if (!activeVoiceChannel) {
+                activeVoiceChannel = voiceChannel; // Set the active voice channel
+            }
 
             const queue = await client.distube.getQueue(voiceChannel);
 
