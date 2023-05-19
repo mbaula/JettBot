@@ -3,18 +3,20 @@ const client = require("../../index");
 
 module.exports = {
   data: new SlashCommandBuilder()
-    .setName('play')
-    .setDescription('Play a song!')
+    .setName("play")
+    .setDescription("Play a song.")
     .addStringOption(option =>
-      option.setName('song_link')
-        .setDescription('The song link')
-        .setRequired(true)
+        option.setName("query")
+            .setDescription("Provide the name or url for the song.")
+            .setRequired(true)
     ),
-
-  async execute(interaction) {
+  async execute(interaction, client) {
 
     const { options, member, guild, channel } = interaction;
-    const song = interaction.options.getString('song_link');
+    
+    const queryOption = options.get('song_link');
+    const query = queryOption.value;
+    console.log(query);
     const voiceChannel = member.voice.channel;
     
     const embed = new EmbedBuilder();
@@ -25,7 +27,7 @@ module.exports = {
     }
 
     if (!member.voice.channelId == guild.members.me.voice.channelId) {
-        embed.setColor('#8b02e0').setDescription(`You can't use the music player as it is already active in <#${guild.members.me.voice.channelId}>`);
+        embed.setColor('#800080').setDescription(`You can't use the music player as it is already active in <#${guild.members.me.voice.channelId}>`);
         return interaction.reply({ embeds: [embed], ephemeral: true });
     }
 
@@ -37,7 +39,7 @@ module.exports = {
     } catch (err) {
         console.log(err);
 
-        embed.setColor('#8b02e0').setDescription("⛔ | Something went wrong...");
+        embed.setColor('#800080').setDescription("⛔ | Something went wrong...");
 
         return interaction.reply({ embeds: [embed], ephemeral: true });
     }

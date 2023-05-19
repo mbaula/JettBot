@@ -3,9 +3,18 @@ const fs = require('node:fs');
 const path = require('node:path');
 const { Client, Collection, Events, GatewayIntentBits } = require('discord.js');
 const { token } = require('./config.json');
+const { DisTube } = require("distube");
+const { SpotifyPlugin } = require("@distube/spotify");
 
 // Create a new client instance
 const client = new Client({ intents: ["Guilds", "GuildMessages", "GuildVoiceStates","MessageContent"]});
+
+client.distube = new DisTube(client, {
+	emitNewSongOnly: true,
+	leaveOnFinish: true, // you can change this to your needs
+	emitAddSongWhenCreatingQueue: false,
+	plugins: [new SpotifyPlugin()]
+});
 
 client.commands = new Collection();
 const foldersPath = path.join(__dirname, 'commands');
@@ -39,7 +48,7 @@ client.on(Events.InteractionCreate, async interaction => {
 	if (!command) return;
 
 	try {
-		await command.execute(interaction);
+		await command.execute(interaction, client);
 	} catch (error) {
 		console.error(error);
 		if (interaction.replied || interaction.deferred) {
@@ -50,5 +59,5 @@ client.on(Events.InteractionCreate, async interaction => {
 	}
 });
 
-// Login to Discord with your client's token
+module.exports = client;
 client.login(token);
