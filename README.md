@@ -1,2 +1,2 @@
-# Janet Bot
- A discord bot for playing music
+# Bot
+ A discord bot 
