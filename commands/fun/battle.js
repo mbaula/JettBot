@@ -17,7 +17,7 @@ module.exports = {
         setTimeout(() => {
         // Randomly select a winner
         const winner = [challenger, opponent][Math.floor(Math.random() * 2)];
-        interaction.followUp(`And the winner is... drumroll, please... ${winner}! Not that it matters, but it's always fun to see who wins.`);
+        interaction.followUp(`And the winner is... drumroll, please... ${winner}! Good job lil bro!`);
         }, 2000);
     },
 };

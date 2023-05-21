@@ -10,26 +10,27 @@ module.exports = {
             .setRequired(true)),
     async execute(interaction) {
         const responses = [
-            "Everything is fine. Like, seriously fine.",
-            "Oh, forking sure!",
-            "Definitely! It's like, not even a question.",
-            "Absolutely! I got you, friend-o.",
-            "You can count on it. I'm basically a database of everything.",
-            "As an all-knowing being, I say yes.",
-            "Most likely. But remember, there's no guarantees in the afterlife.",
-            "Outlook looks pretty shiny from here.",
-            "Yes, I'm so sure it's giving me a good place warm fuzzy feeling.",
-            "All signs point to yes, and my knowledge is flawless.",
-            "Oh, sorry! My answer is a little unclear right now. Ask again, maybe?",
-            "I need to calculate that one. Ask me again later, okay?",
-            "I can't give you a straight answer. It's complicated, like human ethics.",
-            "Hmm, I don't have enough data to predict that. Ask another question, maybe?",
-            "Concentrate, ask again, and I'll try to pull it up from the good place archives.",
-            "Don't count on it. Seriously, don't.",
-            "My reply is no, and I'm never wrong. Well, maybe just once or twice.",
-            "My cosmic sources say absolutely not. Trust me on this one.",
-            "Outlook is not so great. Sorry, dude.",
-            "Very doubtful. Like, next to impossible doubtful."
+            "Sure thing, it's a lock",
+            "No doubts, buddy",
+            "You can bank on it, no question",
+            "Absolutely, 100% certainty",
+            "No room for debate, it's a yes",
+            "Yeah, from my perspective, definitely",
+            "If you ask me, chances are high",
+            "Affirmative, no doubt about it",
+            "The outlook is rock solid",
+            "All signs scream yes, without a doubt",
+            "Got a bit of haze, try again",
+            "Can't give it away just yet, my friend",
+            "Ask me later, maybe I'll have something",
+            "No fortune-telling right now",
+            "Focus up and ask again, maybe then I'll know",
+            "Don't hold your breath, it's a no-go",
+            "Outlook's not pretty, gotta keep it real",
+            "My sources are a hard no",
+            "Doubtful, seriously doubtful",
+            "No way around it, it's a firm no",
+
         ];
 
         const question = interaction.options.getString('question');
@@ -38,3 +39,4 @@ module.exports = {
         await interaction.reply(`"${response}"`);
     },
 };
+

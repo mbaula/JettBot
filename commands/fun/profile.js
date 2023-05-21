@@ -11,6 +11,6 @@ module.exports = {
     async execute(interaction) {
         const user = interaction.options.getUser('user');
         const avatarURL = user.avatarURL({ dynamic: true, size: 4096, format: 'png' });
-        return interaction.reply(`Oh, I've got just the thing! Here is the marvelous profile picture of ${user.username}: ${avatarURL}`);
+        return interaction.reply(`Oh, I've got just the thing! Here is lil bro's profile picture ${user.username}: ${avatarURL}`);
     },
 };

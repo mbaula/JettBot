@@ -15,7 +15,7 @@ module.exports = {
       return interaction.reply(`Okay, here's a good one: \n\n${joke}`);
     } catch (error) {
       console.error(error);
-      return interaction.reply('Oops! It seems that my joke database is experiencing some cosmic interference. Please try again later.');
+      return interaction.reply('Oops! It seems that my joke database is experiencing some lag. Please try again later.');
     }
   },
 };

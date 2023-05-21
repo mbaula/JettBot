@@ -18,13 +18,13 @@ module.exports = {
   
       // Generate the response message with the rating and the mentioned user's name
       if (rating <= 10) {
-        const response = `${user}'s @ has ${rating}/10 rizz. Not bad, but there's always room for improvement!`;
+        const response = `${user}'s @ has ${rating}/10 rizz. There's always room for improvement, right?`;
         return interaction.reply(response);
       } else if (rating === 11) {
-        const response = `${user}'s @ has L rizz! 🤮 It's definitely not the best, but hey, we all have our off days.`;
+        const response = `${user}'s @ has L rizz! 🤮`;
         return interaction.reply(response);
       } else {
-        const response = `${user}'s @ has UNLIMITED rizz! 🔥🔥🔥 It's pure perfection, a shining beacon in the universe! `;
+        const response = `${user}'s @ has UNLIMITED rizz! 🔥🔥🔥`;
         return interaction.reply(response);
       }
     },

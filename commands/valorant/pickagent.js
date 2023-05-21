@@ -40,10 +40,10 @@ module.exports = {
 
         const rand = Math.random();
         if (rand <= 0.25) {
-            return interaction.reply(`instalock ${randomAgent} to defeat. The odds may be against you, but it's all part of the cosmic plan.`);
+            return interaction.reply(`instalock ${randomAgent} to defeat. There's definitely gonna be smurfs on the enemy team`);
         }
         else if (rand > 0.25 && rand <= 0.5) {         
-            return interaction.reply(`instalock ${randomAgent} to victory. The universe has aligned in your favor, and success is within your grasp.`);
+            return interaction.reply(`instalock ${randomAgent} to victory. You will bottomfrag but at least you'll win!`);
         }
         else if (rand > 0.5 && rand <= 0.75) {
             return interaction.reply(`The stars have aligned, and you shall play: ${randomAgent}`);
