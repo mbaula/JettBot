@@ -10,9 +10,11 @@
     "ffmpeg-static": "^5.1.0",
     "libsodium-wrappers": "^0.7.11",
     "node-fetch": "^2.6.11",
+    "sequelize": "^6.31.1",
     "soundcloud-scraper": "^5.0.3",
     "spotify-url-info": "^3.2.4",
     "spotify-web-api-node": "^5.0.2",
+    "sqlite3": "^5.1.6",
     "youtube-sr": "^4.3.4"
   },
   "name": "janetBot",

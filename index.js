@@ -1,13 +1,29 @@
 // Require the necessary discord.js classes
 const fs = require('node:fs');
 const path = require('node:path');
-const { Client, Collection, Events, GatewayIntentBits } = require('discord.js');
+const { Client, codeBlock, Collection, Events, GatewayIntentBits } = require('discord.js');
 const { token } = require('./config.json');
+const { Op } = require('sequelize');
+const { Users, CurrencyShop } = require('./dbObjects.js');
 const { DisTube } = require("distube");
 const { SpotifyPlugin } = require("@distube/spotify");
 
 // Create a new client instance
 const client = new Client({ intents: ["Guilds", "GuildMessages", "GuildVoiceStates","MessageContent"]});
+
+async function addBalance(id, amount) {
+	const user = client.currency.get(id);
+
+	if (user) {
+		user.balance += Number(amount);
+		return user.save();
+	}
+
+	const newUser = await Users.create({ user_id: id, balance: amount });
+	client.currency.set(id, newUser);
+
+	return newUser;
+}
 
 client.distube = new DisTube(client, {
 	emitNewSongOnly: true,
@@ -17,6 +33,7 @@ client.distube = new DisTube(client, {
 });
 
 client.commands = new Collection();
+client.currency = new Collection();
 const foldersPath = path.join(__dirname, 'commands');
 const commandFolders = fs.readdirSync(foldersPath);
 
@@ -36,8 +53,16 @@ for (const folder of commandFolders) {
 
 // When the client is ready, run this code (only once)
 // We use 'c' for the event parameter to keep it separate from the already defined 'client'
-client.once(Events.ClientReady, c => {
-	console.log(`Ready! Logged in as ${c.user.tag}`);
+client.once(Events.ClientReady, async() => {
+	const storedBalances = await Users.findAll();
+	storedBalances.forEach(b => client.currency.set(b.user_id, b));
+
+	console.log(`Ready! Logged in as ${client.user.tag}`);
+});
+
+client.on(Events.MessageCreate, async message => {
+	if (message.author.bot) return;
+	addBalance(message.author.id, 1);
 });
 
 client.on(Events.InteractionCreate, async interaction => {
@@ -59,5 +84,5 @@ client.on(Events.InteractionCreate, async interaction => {
 	}
 });
 
-module.exports = client;
+module.exports = {client};
 client.login(token);
