@@ -13,8 +13,6 @@ module.exports = {
         const embed = new EmbedBuilder();
         const target = interaction.options.getUser('target');
 
-        console.log('MEOW2: ', client.currency);
-
         const user = client.currency.get(target.id);
         const balance = user ? user.dataValues.balance : 0;
 

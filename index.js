@@ -84,5 +84,5 @@ client.on(Events.InteractionCreate, async interaction => {
 	}
 });
 
-module.exports = {client};
+module.exports = {client, addBalance};
 client.login(token);
