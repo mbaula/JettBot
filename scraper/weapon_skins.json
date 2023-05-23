@@ -1,0 +1,4503 @@
+[
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a4/Luxe_Spectre.png",
+    "collectionEdition": "Select",
+    "collection": "Luxe",
+    "weapon": "Spectre",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/48/Luxe_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "Luxe",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e3/Luxe_Vandal.png",
+    "collectionEdition": "Select",
+    "collection": "Luxe",
+    "weapon": "Vandal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/be/Luxe_Operator.png",
+    "collectionEdition": "Select",
+    "collection": "Luxe",
+    "weapon": "Operator",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/79/Luxe_Knife.png",
+    "collectionEdition": "Select",
+    "collection": "Luxe",
+    "weapon": "Knife",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/ea/Aristocrat_Sheriff.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Aristocrat",
+    "weapon": "Sheriff",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/bf/Aristocrat_Stinger.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Aristocrat",
+    "weapon": "Stinger",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4b/Aristocrat_Bulldog.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Aristocrat",
+    "weapon": "Bulldog",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d4/Aristocrat_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Aristocrat",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/8c/Aristocrat_Ares.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Aristocrat",
+    "weapon": "Ares",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f8/Galleria_Classic.png",
+    "collectionEdition": "Select",
+    "collection": "Galleria",
+    "weapon": "Classic",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/37/Galleria_Bucky.png",
+    "collectionEdition": "Select",
+    "collection": "Galleria",
+    "weapon": "Bucky",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/60/Galleria_Guardian.png",
+    "collectionEdition": "Select",
+    "collection": "Galleria",
+    "weapon": "Guardian",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/ac/Galleria_Phantom.png",
+    "collectionEdition": "Select",
+    "collection": "Galleria",
+    "weapon": "Phantom",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/78/Galleria_Marshal.png",
+    "collectionEdition": "Select",
+    "collection": "Galleria",
+    "weapon": "Marshal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3b/Rush_Frenzy.png",
+    "collectionEdition": "Select",
+    "collection": "Rush",
+    "weapon": "Frenzy",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/15/Rush_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "Rush",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a7/Rush_Bulldog.png",
+    "collectionEdition": "Select",
+    "collection": "Rush",
+    "weapon": "Bulldog",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/14/Rush_Phantom.png",
+    "collectionEdition": "Select",
+    "collection": "Rush",
+    "weapon": "Phantom",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/75/Rush_Ares.png",
+    "collectionEdition": "Select",
+    "collection": "Rush",
+    "weapon": "Ares",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/19/Sakura_Classic.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Sakura",
+    "weapon": "Classic",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e7/Sakura_Sheriff.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Sakura",
+    "weapon": "Sheriff",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f7/Sakura_Stinger.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Sakura",
+    "weapon": "Stinger",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5f/Sakura_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Sakura",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a1/Sakura_Ares.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Sakura",
+    "weapon": "Ares",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/6a/Convex_Sheriff.png",
+    "collectionEdition": "Select",
+    "collection": "Convex",
+    "weapon": "Sheriff",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/05/Convex_Spectre.png",
+    "collectionEdition": "Select",
+    "collection": "Convex",
+    "weapon": "Spectre",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/28/Convex_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "Convex",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b3/Convex_Bulldog.png",
+    "collectionEdition": "Select",
+    "collection": "Convex",
+    "weapon": "Bulldog",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d4/Convex_Operator.png",
+    "collectionEdition": "Select",
+    "collection": "Convex",
+    "weapon": "Operator",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/92/Avalanche_Classic.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Avalanche",
+    "weapon": "Classic",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f5/Avalanche_Spectre.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Avalanche",
+    "weapon": "Spectre",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/9e/Avalanche_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Avalanche",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b2/Avalanche_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Avalanche",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f0/Avalanche_Marshal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Avalanche",
+    "weapon": "Marshal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/cc/Prime_Classic.png",
+    "collectionEdition": "Premium",
+    "collection": "Prime",
+    "weapon": "Classic",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/ce/Prime_Spectre.png",
+    "collectionEdition": "Premium",
+    "collection": "Prime",
+    "weapon": "Spectre",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d1/Prime_Guardian.png",
+    "collectionEdition": "Premium",
+    "collection": "Prime",
+    "weapon": "Guardian",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/aa/Prime_Vandal.png",
+    "collectionEdition": "Premium",
+    "collection": "Prime",
+    "weapon": "Vandal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/15/Prime_Axe.png",
+    "collectionEdition": "Premium",
+    "collection": "Prime",
+    "weapon": "Axe",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/24/Sovereign_Ghost.png",
+    "collectionEdition": "Premium",
+    "collection": "Sovereign",
+    "weapon": "Ghost",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/9e/Sovereign_Stinger.png",
+    "collectionEdition": "Premium",
+    "collection": "Sovereign",
+    "weapon": "Stinger",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b3/Sovereign_Guardian.png",
+    "collectionEdition": "Premium",
+    "collection": "Sovereign",
+    "weapon": "Guardian",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/91/Sovereign_Marshal.png",
+    "collectionEdition": "Premium",
+    "collection": "Sovereign",
+    "weapon": "Marshal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/cb/Sovereign_Sword.png",
+    "collectionEdition": "Premium",
+    "collection": "Sovereign",
+    "weapon": "Sword",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/ce/Prism_Ghost.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Prism",
+    "weapon": "Ghost",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/28/Prism_Spectre.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Prism",
+    "weapon": "Spectre",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d4/Prism_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Prism",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a6/Prism_Operator.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Prism",
+    "weapon": "Operator",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/dd/Prism_Ares.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Prism",
+    "weapon": "Ares",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3f/Prism_Knife.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Prism",
+    "weapon": "Knife",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c4/Elderflame_Frenzy.png",
+    "collectionEdition": "Ultra",
+    "collection": "Elderflame",
+    "weapon": "Frenzy",
+    "star": 5
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c6/Elderflame_Judge.png",
+    "collectionEdition": "Ultra",
+    "collection": "Elderflame",
+    "weapon": "Judge",
+    "star": 5
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d2/Elderflame_Vandal.png",
+    "collectionEdition": "Ultra",
+    "collection": "Elderflame",
+    "weapon": "Vandal",
+    "star": 5
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/ed/Elderflame_Operator.png",
+    "collectionEdition": "Ultra",
+    "collection": "Elderflame",
+    "weapon": "Operator",
+    "star": 5
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a9/Elderflame_Dagger.png",
+    "collectionEdition": "Ultra",
+    "collection": "Elderflame",
+    "weapon": "Dagger",
+    "star": 5
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b7/Oni_Shorty.png",
+    "collectionEdition": "Premium",
+    "collection": "Oni",
+    "weapon": "Shorty",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e8/Oni_Bucky.png",
+    "collectionEdition": "Premium",
+    "collection": "Oni",
+    "weapon": "Bucky",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/22/Oni_Guardian.png",
+    "collectionEdition": "Premium",
+    "collection": "Oni",
+    "weapon": "Guardian",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/65/Oni_Phantom.png",
+    "collectionEdition": "Premium",
+    "collection": "Oni",
+    "weapon": "Phantom",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/83/Oni_Claw.png",
+    "collectionEdition": "Premium",
+    "collection": "Oni",
+    "weapon": "Claw",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/cd/Glitchpop_Frenzy.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Glitchpop",
+    "weapon": "Frenzy",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e1/Glitchpop_Judge.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Glitchpop",
+    "weapon": "Judge",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/74/Glitchpop_Bulldog.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Glitchpop",
+    "weapon": "Bulldog",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5f/Glitchpop_Odin.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Glitchpop",
+    "weapon": "Odin",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/55/Glitchpop_Dagger.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Glitchpop",
+    "weapon": "Dagger",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/23/Nebula_Sheriff.png",
+    "collectionEdition": "Premium",
+    "collection": "Nebula",
+    "weapon": "Sheriff",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f0/Nebula_Guardian.png",
+    "collectionEdition": "Premium",
+    "collection": "Nebula",
+    "weapon": "Guardian",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b1/Nebula_Phantom.png",
+    "collectionEdition": "Premium",
+    "collection": "Nebula",
+    "weapon": "Phantom",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/16/Nebula_Ares.png",
+    "collectionEdition": "Premium",
+    "collection": "Nebula",
+    "weapon": "Ares",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/89/Nebula_Knife.png",
+    "collectionEdition": "Premium",
+    "collection": "Nebula",
+    "weapon": "Knife",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/52/Spline_Classic.png",
+    "collectionEdition": "Premium",
+    "collection": "Spline",
+    "weapon": "Classic",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/08/Spline_Spectre.png",
+    "collectionEdition": "Premium",
+    "collection": "Spline",
+    "weapon": "Spectre",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4f/Spline_Phantom.png",
+    "collectionEdition": "Premium",
+    "collection": "Spline",
+    "weapon": "Phantom",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/08/Spline_Operator.png",
+    "collectionEdition": "Premium",
+    "collection": "Spline",
+    "weapon": "Operator",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b8/Spline_Dagger.png",
+    "collectionEdition": "Premium",
+    "collection": "Spline",
+    "weapon": "Dagger",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/6f/Ego_Ghost.png",
+    "collectionEdition": "Premium",
+    "collection": "Ego",
+    "weapon": "Ghost",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/43/Ego_Stinger.png",
+    "collectionEdition": "Premium",
+    "collection": "Ego",
+    "weapon": "Stinger",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/54/Ego_Guardian.png",
+    "collectionEdition": "Premium",
+    "collection": "Ego",
+    "weapon": "Guardian",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/91/Ego_Vandal.png",
+    "collectionEdition": "Premium",
+    "collection": "Ego",
+    "weapon": "Vandal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/6e/Ego_Knife.png",
+    "collectionEdition": "Premium",
+    "collection": "Ego",
+    "weapon": "Knife",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/84/Smite_Classic.png",
+    "collectionEdition": "Select",
+    "collection": "Smite",
+    "weapon": "Classic",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/9b/Smite_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "Smite",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/18/Smite_Phantom.png",
+    "collectionEdition": "Select",
+    "collection": "Smite",
+    "weapon": "Phantom",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/22/Smite_Odin.png",
+    "collectionEdition": "Select",
+    "collection": "Smite",
+    "weapon": "Odin",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/1f/Smite_Knife.png",
+    "collectionEdition": "Select",
+    "collection": "Smite",
+    "weapon": "Knife",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f8/Gravitational_Uranium_Neuroblaster_Classic.png",
+    "collectionEdition": "Premium",
+    "collection": "Gravitational Uranium Neuroblaster",
+    "weapon": "Classic",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/72/Gravitational_Uranium_Neuroblaster_Spectre.png",
+    "collectionEdition": "Premium",
+    "collection": "Gravitational Uranium Neuroblaster",
+    "weapon": "Spectre",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/ae/Gravitational_Uranium_Neuroblaster_Bucky.png",
+    "collectionEdition": "Premium",
+    "collection": "Gravitational Uranium Neuroblaster",
+    "weapon": "Bucky",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a1/Gravitational_Uranium_Neuroblaster_Operator.png",
+    "collectionEdition": "Premium",
+    "collection": "Gravitational Uranium Neuroblaster",
+    "weapon": "Operator",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/15/Gravitational_Uranium_Neuroblaster_Baton.png",
+    "collectionEdition": "Premium",
+    "collection": "Gravitational Uranium Neuroblaster",
+    "weapon": "Baton",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/9f/Singularity_Sheriff.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Singularity",
+    "weapon": "Sheriff",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/7e/Singularity_Spectre.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Singularity",
+    "weapon": "Spectre",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c6/Singularity_Phantom.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Singularity",
+    "weapon": "Phantom",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d5/Singularity_Ares.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Singularity",
+    "weapon": "Ares",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/10/Singularity_Knife.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Singularity",
+    "weapon": "Knife",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/fd/Reaver_Sheriff.png",
+    "collectionEdition": "Premium",
+    "collection": "Reaver",
+    "weapon": "Sheriff",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/cc/Reaver_Guardian.png",
+    "collectionEdition": "Premium",
+    "collection": "Reaver",
+    "weapon": "Guardian",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/27/Reaver_Vandal.png",
+    "collectionEdition": "Premium",
+    "collection": "Reaver",
+    "weapon": "Vandal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e7/Reaver_Operator.png",
+    "collectionEdition": "Premium",
+    "collection": "Reaver",
+    "weapon": "Operator",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/71/Reaver_Knife.png",
+    "collectionEdition": "Premium",
+    "collection": "Reaver",
+    "weapon": "Knife",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/08/Ion_Sheriff.png",
+    "collectionEdition": "Premium",
+    "collection": "Ion",
+    "weapon": "Sheriff",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/09/Ion_Bucky.png",
+    "collectionEdition": "Premium",
+    "collection": "Ion",
+    "weapon": "Bucky",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/49/Ion_Phantom.png",
+    "collectionEdition": "Premium",
+    "collection": "Ion",
+    "weapon": "Phantom",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b8/Ion_Operator.png",
+    "collectionEdition": "Premium",
+    "collection": "Ion",
+    "weapon": "Operator",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/6f/Ion_Energy_Sword.png",
+    "collectionEdition": "Premium",
+    "collection": "Ion",
+    "weapon": "Energy Sword",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/9a/Wasteland_Shorty.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Wasteland",
+    "weapon": "Shorty",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d5/Wasteland_Sheriff.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Wasteland",
+    "weapon": "Sheriff",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/fe/Wasteland_Spectre.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Wasteland",
+    "weapon": "Spectre",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/ad/Wasteland_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Wasteland",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/cf/Wasteland_Marshal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Wasteland",
+    "weapon": "Marshal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5f/Sensation_Frenzy.png",
+    "collectionEdition": "Select",
+    "collection": "Sensation",
+    "weapon": "Frenzy",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e1/Sensation_Stinger.png",
+    "collectionEdition": "Select",
+    "collection": "Sensation",
+    "weapon": "Stinger",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/68/Sensation_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "Sensation",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/05/Sensation_Vandal.png",
+    "collectionEdition": "Select",
+    "collection": "Sensation",
+    "weapon": "Vandal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/31/Sensation_Odin.png",
+    "collectionEdition": "Select",
+    "collection": "Sensation",
+    "weapon": "Odin",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/fe/Winterwunderland_Ghost.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Winterwunderland",
+    "weapon": "Ghost",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3b/Winterwunderland_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Winterwunderland",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f2/Winterwunderland_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Winterwunderland",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/60/Winterwunderland_Marshal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Winterwunderland",
+    "weapon": "Marshal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/04/Winterwunderland_Candy_Cane.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Winterwunderland",
+    "weapon": "Candy Cane",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b4/BlastX_Frenzy.png",
+    "collectionEdition": "Exclusive",
+    "collection": "BlastX",
+    "weapon": "Frenzy",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c6/BlastX_Spectre.png",
+    "collectionEdition": "Exclusive",
+    "collection": "BlastX",
+    "weapon": "Spectre",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b1/BlastX_Phantom.png",
+    "collectionEdition": "Exclusive",
+    "collection": "BlastX",
+    "weapon": "Phantom",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/13/BlastX_Odin.png",
+    "collectionEdition": "Exclusive",
+    "collection": "BlastX",
+    "weapon": "Odin",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/2d/BlastX_Polymer_Knifetech_Coated_Knife.png",
+    "collectionEdition": "Exclusive",
+    "collection": "BlastX",
+    "weapon": "Polymer Knifetech Coated Knife",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/01/Prism_II_Shorty.png",
+    "collectionEdition": "Select",
+    "collection": "Prism II",
+    "weapon": "Shorty",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f9/Prism_II_Sheriff.png",
+    "collectionEdition": "Select",
+    "collection": "Prism II",
+    "weapon": "Sheriff",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/7d/Prism_II_Stinger.png",
+    "collectionEdition": "Select",
+    "collection": "Prism II",
+    "weapon": "Stinger",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d1/Prism_II_Bucky.png",
+    "collectionEdition": "Select",
+    "collection": "Prism II",
+    "weapon": "Bucky",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/8e/Prism_II_Vandal.png",
+    "collectionEdition": "Select",
+    "collection": "Prism II",
+    "weapon": "Vandal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/dc/Horizon_Frenzy.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Horizon",
+    "weapon": "Frenzy",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/82/Horizon_Spectre.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Horizon",
+    "weapon": "Spectre",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d1/Horizon_Bucky.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Horizon",
+    "weapon": "Bucky",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a7/Horizon_Bulldog.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Horizon",
+    "weapon": "Bulldog",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/8a/Horizon_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Horizon",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/65/Glitchpop_Classic.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Glitchpop",
+    "weapon": "Classic",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/74/Glitchpop_Phantom.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Glitchpop",
+    "weapon": "Phantom",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/ab/Glitchpop_Vandal.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Glitchpop",
+    "weapon": "Vandal",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e4/Glitchpop_Operator.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Glitchpop",
+    "weapon": "Operator",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/01/Glitchpop_Axe.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Glitchpop",
+    "weapon": "Axe",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/1b/Celestial_Frenzy.png",
+    "collectionEdition": "Premium",
+    "collection": "Celestial",
+    "weapon": "Frenzy",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/00/Celestial_Judge.png",
+    "collectionEdition": "Premium",
+    "collection": "Celestial",
+    "weapon": "Judge",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/6e/Celestial_Phantom.png",
+    "collectionEdition": "Premium",
+    "collection": "Celestial",
+    "weapon": "Phantom",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/03/Celestial_Ares.png",
+    "collectionEdition": "Premium",
+    "collection": "Celestial",
+    "weapon": "Ares",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c0/Celestial_Fan.png",
+    "collectionEdition": "Premium",
+    "collection": "Celestial",
+    "weapon": "Fan",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/da/VALORANT_Go%21_Vol._1_Ghost.png",
+    "collectionEdition": "Premium",
+    "collection": "VALORANT Go! Vol. 1",
+    "weapon": "Ghost",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d8/VALORANT_Go%21_Vol._1_Spectre.png",
+    "collectionEdition": "Premium",
+    "collection": "VALORANT Go! Vol. 1",
+    "weapon": "Spectre",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b7/VALORANT_Go%21_Vol._1_Guardian.png",
+    "collectionEdition": "Premium",
+    "collection": "VALORANT Go! Vol. 1",
+    "weapon": "Guardian",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/07/VALORANT_Go%21_Vol._1_Phantom.png",
+    "collectionEdition": "Premium",
+    "collection": "VALORANT Go! Vol. 1",
+    "weapon": "Phantom",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/77/VALORANT_Go%21_Vol._1_Knife.png",
+    "collectionEdition": "Premium",
+    "collection": "VALORANT Go! Vol. 1",
+    "weapon": "Knife",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a4/Prime_2.0_Frenzy.png",
+    "collectionEdition": "Premium",
+    "collection": "Prime//2.0",
+    "weapon": "Frenzy",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/18/Prime_2.0_Bucky.png",
+    "collectionEdition": "Premium",
+    "collection": "Prime//2.0",
+    "weapon": "Bucky",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/08/Prime_2.0_Phantom.png",
+    "collectionEdition": "Premium",
+    "collection": "Prime//2.0",
+    "weapon": "Phantom",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/de/Prime_2.0_Odin.png",
+    "collectionEdition": "Premium",
+    "collection": "Prime//2.0",
+    "weapon": "Odin",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/cf/Prime_2.0_Karambit.png",
+    "collectionEdition": "Premium",
+    "collection": "Prime//2.0",
+    "weapon": "Karambit",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b9/Infantry_Ghost.png",
+    "collectionEdition": "Select",
+    "collection": "Infantry",
+    "weapon": "Ghost",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/7f/Infantry_Spectre.png",
+    "collectionEdition": "Select",
+    "collection": "Infantry",
+    "weapon": "Spectre",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/1b/Infantry_Guardian.png",
+    "collectionEdition": "Select",
+    "collection": "Infantry",
+    "weapon": "Guardian",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/7d/Infantry_Operator.png",
+    "collectionEdition": "Select",
+    "collection": "Infantry",
+    "weapon": "Operator",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/56/Infantry_Ares.png",
+    "collectionEdition": "Select",
+    "collection": "Infantry",
+    "weapon": "Ares",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/92/Magepunk_Ghost.png",
+    "collectionEdition": "Premium",
+    "collection": "Magepunk",
+    "weapon": "Ghost",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/8b/Magepunk_Spectre.png",
+    "collectionEdition": "Premium",
+    "collection": "Magepunk",
+    "weapon": "Spectre",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e4/Magepunk_Bucky.png",
+    "collectionEdition": "Premium",
+    "collection": "Magepunk",
+    "weapon": "Bucky",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5a/Magepunk_Marshal.png",
+    "collectionEdition": "Premium",
+    "collection": "Magepunk",
+    "weapon": "Marshal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/34/Magepunk_Electroblade.png",
+    "collectionEdition": "Premium",
+    "collection": "Magepunk",
+    "weapon": "Electroblade",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/9f/Silvanus_Sheriff.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Silvanus",
+    "weapon": "Sheriff",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/11/Silvanus_Stinger.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Silvanus",
+    "weapon": "Stinger",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/70/Silvanus_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Silvanus",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/ff/Silvanus_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Silvanus",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/73/Silvanus_Operator.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Silvanus",
+    "weapon": "Operator",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/89/Forsaken_Classic.png",
+    "collectionEdition": "Premium",
+    "collection": "Forsaken",
+    "weapon": "Classic",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/02/Forsaken_Spectre.png",
+    "collectionEdition": "Premium",
+    "collection": "Forsaken",
+    "weapon": "Spectre",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/68/Forsaken_Vandal.png",
+    "collectionEdition": "Premium",
+    "collection": "Forsaken",
+    "weapon": "Vandal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d4/Forsaken_Operator.png",
+    "collectionEdition": "Premium",
+    "collection": "Forsaken",
+    "weapon": "Operator",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4c/Forsaken_Ritual_Blade.png",
+    "collectionEdition": "Premium",
+    "collection": "Forsaken",
+    "weapon": "Ritual Blade",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/49/Minima_Sheriff.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Minima",
+    "weapon": "Sheriff",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f6/Minima_Spectre.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Minima",
+    "weapon": "Spectre",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/89/Minima_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Minima",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/cf/Minima_Operator.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Minima",
+    "weapon": "Operator",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/cb/Minima_Ares.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Minima",
+    "weapon": "Ares",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f9/Tethered_Realms_Ghost.png",
+    "collectionEdition": "Premium",
+    "collection": "Tethered Realms",
+    "weapon": "Ghost",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d7/Tethered_Realms_Guardian.png",
+    "collectionEdition": "Premium",
+    "collection": "Tethered Realms",
+    "weapon": "Guardian",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e7/Tethered_Realms_Vandal.png",
+    "collectionEdition": "Premium",
+    "collection": "Tethered Realms",
+    "weapon": "Vandal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b8/Tethered_Realms_Operator.png",
+    "collectionEdition": "Premium",
+    "collection": "Tethered Realms",
+    "weapon": "Operator",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f0/Tethered_Realms_Prosperity.png",
+    "collectionEdition": "Premium",
+    "collection": "Tethered Realms",
+    "weapon": "Prosperity",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c8/Origin_Frenzy.png",
+    "collectionEdition": "Premium",
+    "collection": "Origin",
+    "weapon": "Frenzy",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/2e/Origin_Bucky.png",
+    "collectionEdition": "Premium",
+    "collection": "Origin",
+    "weapon": "Bucky",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5b/Origin_Vandal.png",
+    "collectionEdition": "Premium",
+    "collection": "Origin",
+    "weapon": "Vandal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/da/Origin_Operator.png",
+    "collectionEdition": "Premium",
+    "collection": "Origin",
+    "weapon": "Operator",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/98/Origin_Crescent_Blade.png",
+    "collectionEdition": "Premium",
+    "collection": "Origin",
+    "weapon": "Crescent Blade",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/6b/Ruination_Ghost.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Ruination",
+    "weapon": "Ghost",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c6/Ruination_Spectre.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Ruination",
+    "weapon": "Spectre",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3f/Ruination_Guardian.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Ruination",
+    "weapon": "Guardian",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/7c/Ruination_Phantom.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Ruination",
+    "weapon": "Phantom",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/bb/Ruination_Broken_Blade_Of_The_Ruined_King.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Ruination",
+    "weapon": "Broken Blade Of The Ruined King",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3d/Sentinels_Of_Light_Sheriff.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Sentinels of Light",
+    "weapon": "Sheriff",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/69/Sentinels_Of_Light_Vandal.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Sentinels of Light",
+    "weapon": "Vandal",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/ba/Sentinels_Of_Light_Operator.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Sentinels of Light",
+    "weapon": "Operator",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/da/Sentinels_Of_Light_Ares.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Sentinels of Light",
+    "weapon": "Ares",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/93/Sentinels_Of_Light_Relic_Of_The_Sentinel.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Sentinels of Light",
+    "weapon": "Relic of the Sentinel",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e7/Recon_Ghost.png",
+    "collectionEdition": "Premium",
+    "collection": "Recon",
+    "weapon": "Ghost",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/18/Recon_Spectre.png",
+    "collectionEdition": "Premium",
+    "collection": "Recon",
+    "weapon": "Spectre",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/6e/Recon_Guardian.png",
+    "collectionEdition": "Premium",
+    "collection": "Recon",
+    "weapon": "Guardian",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b3/Recon_Phantom.png",
+    "collectionEdition": "Premium",
+    "collection": "Recon",
+    "weapon": "Phantom",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/aa/Recon_Balisong.png",
+    "collectionEdition": "Premium",
+    "collection": "Recon",
+    "weapon": "Balisong",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/df/SPECTRUM_Classic.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Spectrum",
+    "weapon": "Classic",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0d/SPECTRUM_Bulldog.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Spectrum",
+    "weapon": "Bulldog",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f5/SPECTRUM_Guardian.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Spectrum",
+    "weapon": "Guardian",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f4/SPECTRUM_Phantom.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Spectrum",
+    "weapon": "Phantom",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e7/SPECTRUM_Waveform.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Spectrum",
+    "weapon": "Waveform",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/33/VALORANT_Go%21_Vol._2_Classic.png",
+    "collectionEdition": "Premium",
+    "collection": "VALORANT Go! Vol. 2",
+    "weapon": "Classic",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5b/VALORANT_Go%21_Vol._2_Vandal.png",
+    "collectionEdition": "Premium",
+    "collection": "VALORANT Go! Vol. 2",
+    "weapon": "Vandal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/90/VALORANT_Go%21_Vol._2_Operator.png",
+    "collectionEdition": "Premium",
+    "collection": "VALORANT Go! Vol. 2",
+    "weapon": "Operator",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/87/VALORANT_Go%21_Vol._2_Ares.png",
+    "collectionEdition": "Premium",
+    "collection": "VALORANT Go! Vol. 2",
+    "weapon": "Ares",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/1e/Yoru%27s_Stylish_Butterfly_Comb.png",
+    "collectionEdition": "Premium",
+    "collection": "VALORANT Go! Vol. 2",
+    "weapon": "Yoru's Stylish Butterfly Comb",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/98/RGX_11z_Pro_Frenzy.png",
+    "collectionEdition": "Exclusive",
+    "collection": "RGX 11z Pro",
+    "weapon": "Frenzy",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/29/RGX_11z_Pro_Stinger.png",
+    "collectionEdition": "Exclusive",
+    "collection": "RGX 11z Pro",
+    "weapon": "Stinger",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/55/RGX_11z_Pro_Guardian.png",
+    "collectionEdition": "Exclusive",
+    "collection": "RGX 11z Pro",
+    "weapon": "Guardian",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/41/RGX_11z_Pro_Vandal.png",
+    "collectionEdition": "Exclusive",
+    "collection": "RGX 11z Pro",
+    "weapon": "Vandal",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/15/RGX_11z_Pro_Blade.png",
+    "collectionEdition": "Exclusive",
+    "collection": "RGX 11z Pro",
+    "weapon": "Blade",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f8/Nunca_Olvidados_Frenzy.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Nunca Olvidados",
+    "weapon": "Frenzy",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0f/Nunca_Olvidados_Bulldog.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Nunca Olvidados",
+    "weapon": "Bulldog",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/17/Nunca_Olvidados_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Nunca Olvidados",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c6/Nunca_Olvidados_Ares.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Nunca Olvidados",
+    "weapon": "Ares",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4c/Nunca_Olvidados_Catrina.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Nunca Olvidados",
+    "weapon": "Catrina",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/75/Radiant_Crisis_001_Classic.png",
+    "collectionEdition": "Premium",
+    "collection": "Radiant Crisis 001",
+    "weapon": "Classic",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/ac/Radiant_Crisis_001_Spectre.png",
+    "collectionEdition": "Premium",
+    "collection": "Radiant Crisis 001",
+    "weapon": "Spectre",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d1/Radiant_Crisis_001_Bucky.png",
+    "collectionEdition": "Premium",
+    "collection": "Radiant Crisis 001",
+    "weapon": "Bucky",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/00/Radiant_Crisis_001_Phantom.png",
+    "collectionEdition": "Premium",
+    "collection": "Radiant Crisis 001",
+    "weapon": "Phantom",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3f/Radiant_Crisis_001_Baseball_Bat.png",
+    "collectionEdition": "Premium",
+    "collection": "Radiant Crisis 001",
+    "weapon": "Baseball Bat",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/2f/Magepunk_Sheriff.png",
+    "collectionEdition": "Premium",
+    "collection": "Magepunk",
+    "weapon": "Sheriff",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a6/Magepunk_Guardian.png",
+    "collectionEdition": "Premium",
+    "collection": "Magepunk",
+    "weapon": "Guardian",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/08/Magepunk_Operator.png",
+    "collectionEdition": "Premium",
+    "collection": "Magepunk",
+    "weapon": "Operator",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/31/Magepunk_Ares.png",
+    "collectionEdition": "Premium",
+    "collection": "Magepunk",
+    "weapon": "Ares",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/98/Magepunk_Shock_Gauntlet.png",
+    "collectionEdition": "Premium",
+    "collection": "Magepunk",
+    "weapon": "Shock Gauntlet",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/ee/Snowfall_Classic.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Snowfall",
+    "weapon": "Classic",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/76/Snowfall_Judge.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Snowfall",
+    "weapon": "Judge",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/78/Snowfall_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Snowfall",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/25/Snowfall_Ares.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Snowfall",
+    "weapon": "Ares",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e1/Snowfall_Wand.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Snowfall",
+    "weapon": "Wand",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d1/Protocol_781-A_Sheriff.png",
+    "collectionEdition": "Ultra",
+    "collection": "Protocol 781-A",
+    "weapon": "Sheriff",
+    "star": 5
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e9/Protocol_781-A_Spectre.png",
+    "collectionEdition": "Ultra",
+    "collection": "Protocol 781-A",
+    "weapon": "Spectre",
+    "star": 5
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e2/Protocol_781-A_Bulldog.png",
+    "collectionEdition": "Ultra",
+    "collection": "Protocol 781-A",
+    "weapon": "Bulldog",
+    "star": 5
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/ce/Protocol_781-A_Phantom.png",
+    "collectionEdition": "Ultra",
+    "collection": "Protocol 781-A",
+    "weapon": "Phantom",
+    "star": 5
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/8a/Protocol_781-A_Personal_Administrative_Melee_Unit.png",
+    "collectionEdition": "Ultra",
+    "collection": "Protocol 781-A",
+    "weapon": "Personal Administrative Melee Unit",
+    "star": 5
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4c/Tigris_Shorty.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Tigris",
+    "weapon": "Shorty",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/68/Tigris_Spectre.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Tigris",
+    "weapon": "Spectre",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/79/Tigris_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Tigris",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b5/Tigris_Operator.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Tigris",
+    "weapon": "Operator",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/fd/Tigris_Hu_Else.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Tigris",
+    "weapon": "Hu Else",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/8a/Undercity_Classic.png",
+    "collectionEdition": "Premium",
+    "collection": "Undercity",
+    "weapon": "Classic",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/37/Undercity_Judge.png",
+    "collectionEdition": "Premium",
+    "collection": "Undercity",
+    "weapon": "Judge",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/27/Undercity_Bulldog.png",
+    "collectionEdition": "Premium",
+    "collection": "Undercity",
+    "weapon": "Bulldog",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d7/Undercity_Phantom.png",
+    "collectionEdition": "Premium",
+    "collection": "Undercity",
+    "weapon": "Phantom",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/15/Undercity_Hack.png",
+    "collectionEdition": "Premium",
+    "collection": "Undercity",
+    "weapon": "Hack",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/46/Gaia%27s_Vengeance_Ghost.png",
+    "collectionEdition": "Premium",
+    "collection": "Gaia's Vengeance",
+    "weapon": "Ghost",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/19/Gaia%27s_Vengeance_Guardian.png",
+    "collectionEdition": "Premium",
+    "collection": "Gaia's Vengeance",
+    "weapon": "Guardian",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0c/Gaia%27s_Vengeance_Vandal.png",
+    "collectionEdition": "Premium",
+    "collection": "Gaia's Vengeance",
+    "weapon": "Vandal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c0/Gaia%27s_Vengeance_Marshal.png",
+    "collectionEdition": "Premium",
+    "collection": "Gaia's Vengeance",
+    "weapon": "Marshal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/56/Gaia%27s_Wrath.png",
+    "collectionEdition": "Premium",
+    "collection": "Gaia's Vengeance",
+    "weapon": "Gaia's Wrath",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/62/Team_Ace_Frenzy.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Team Ace",
+    "weapon": "Frenzy",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/88/Team_Ace_Judge.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Team Ace",
+    "weapon": "Judge",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/88/Team_Ace_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Team Ace",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f8/Team_Ace_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Team Ace",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/ab/Team_Ace_Operator.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Team Ace",
+    "weapon": "Operator",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/72/Endeavour_Ghost.png",
+    "collectionEdition": "Select",
+    "collection": "Endeavour",
+    "weapon": "Ghost",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f8/Endeavour_Bulldog.png",
+    "collectionEdition": "Select",
+    "collection": "Endeavour",
+    "weapon": "Bulldog",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/2a/Endeavour_Vandal.png",
+    "collectionEdition": "Select",
+    "collection": "Endeavour",
+    "weapon": "Vandal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/45/Endeavour_Operator.png",
+    "collectionEdition": "Select",
+    "collection": "Endeavour",
+    "weapon": "Operator",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/54/Endeavour_Ares.png",
+    "collectionEdition": "Select",
+    "collection": "Endeavour",
+    "weapon": "Ares",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d5/Doodle_Buds_Shorty.png",
+    "collectionEdition": "Premium",
+    "collection": "Doodle Buds",
+    "weapon": "Shorty",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/ca/Doodle_Buds_Stinger.png",
+    "collectionEdition": "Premium",
+    "collection": "Doodle Buds",
+    "weapon": "Stinger",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/59/Doodle_Buds_Phantom.png",
+    "collectionEdition": "Premium",
+    "collection": "Doodle Buds",
+    "weapon": "Phantom",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f8/Doodle_Buds_Marshal.png",
+    "collectionEdition": "Premium",
+    "collection": "Doodle Buds",
+    "weapon": "Marshal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/be/Doodle_Buds_Ares.png",
+    "collectionEdition": "Premium",
+    "collection": "Doodle Buds",
+    "weapon": "Ares",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/87/RGX_11z_Pro_Classic.png",
+    "collectionEdition": "Exclusive",
+    "collection": "RGX 11z Pro",
+    "weapon": "Classic",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/7b/RGX_11z_Pro_Spectre.png",
+    "collectionEdition": "Exclusive",
+    "collection": "RGX 11z Pro",
+    "weapon": "Spectre",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/bb/RGX_11z_Pro_Phantom.png",
+    "collectionEdition": "Exclusive",
+    "collection": "RGX 11z Pro",
+    "weapon": "Phantom",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4c/RGX_11z_Pro_Operator.png",
+    "collectionEdition": "Exclusive",
+    "collection": "RGX 11z Pro",
+    "weapon": "Operator",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/da/RGX_11z_Pro_Firefly.png",
+    "collectionEdition": "Exclusive",
+    "collection": "RGX 11z Pro",
+    "weapon": "Firefly",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d0/Titanmail_Frenzy.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Titanmail",
+    "weapon": "Frenzy",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/46/Titanmail_Bucky.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Titanmail",
+    "weapon": "Bucky",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/09/Titanmail_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Titanmail",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/93/Titanmail_Ares.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Titanmail",
+    "weapon": "Ares",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/60/Titanmail_Mace.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Titanmail",
+    "weapon": "Mace",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/48/Neptune_Shorty.png",
+    "collectionEdition": "Premium",
+    "collection": "Neptune",
+    "weapon": "Shorty",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4e/Neptune_Spectre.png",
+    "collectionEdition": "Premium",
+    "collection": "Neptune",
+    "weapon": "Spectre",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a5/Neptune_Guardian.png",
+    "collectionEdition": "Premium",
+    "collection": "Neptune",
+    "weapon": "Guardian",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/fe/Neptune_Vandal.png",
+    "collectionEdition": "Premium",
+    "collection": "Neptune",
+    "weapon": "Vandal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/90/Neptune_Anchor.png",
+    "collectionEdition": "Premium",
+    "collection": "Neptune",
+    "weapon": "Anchor",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/17/Xenohunter_Frenzy.png",
+    "collectionEdition": "Premium",
+    "collection": "Xenohunter",
+    "weapon": "Frenzy",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e1/Xenohunter_Bucky.png",
+    "collectionEdition": "Premium",
+    "collection": "Xenohunter",
+    "weapon": "Bucky",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0a/Xenohunter_Phantom.png",
+    "collectionEdition": "Premium",
+    "collection": "Xenohunter",
+    "weapon": "Phantom",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/70/Xenohunter_Odin.png",
+    "collectionEdition": "Premium",
+    "collection": "Xenohunter",
+    "weapon": "Odin",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d0/Xenohunter_Knife.png",
+    "collectionEdition": "Premium",
+    "collection": "Xenohunter",
+    "weapon": "Knife",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/78/Prelude_to_Chaos_Shorty.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Prelude to Chaos",
+    "weapon": "Shorty",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/88/Prelude_to_Chaos_Stinger.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Prelude to Chaos",
+    "weapon": "Stinger",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a8/Prelude_to_Chaos_Vandal.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Prelude to Chaos",
+    "weapon": "Vandal",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/48/Prelude_to_Chaos_Operator.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Prelude to Chaos",
+    "weapon": "Operator",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4b/Blade_of_Chaos.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Prelude to Chaos",
+    "weapon": "Blade of Chaos",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d1/Sarmad_Frenzy.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Sarmad",
+    "weapon": "Frenzy",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b0/Sarmad_Spectre.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Sarmad",
+    "weapon": "Spectre",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/fa/Sarmad_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Sarmad",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/70/Sarmad_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Sarmad",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d3/Blade_of_Serket.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Sarmad",
+    "weapon": "Blade of Serket",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/94/Reaver%2C_EP_5_Ghost.png",
+    "collectionEdition": "Premium",
+    "collection": "Reaver, EP 5",
+    "weapon": "Ghost",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/1e/Reaver%2C_EP_5_Spectre.png",
+    "collectionEdition": "Premium",
+    "collection": "Reaver, EP 5",
+    "weapon": "Spectre",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/7a/Reaver%2C_EP_5_Phantom.png",
+    "collectionEdition": "Premium",
+    "collection": "Reaver, EP 5",
+    "weapon": "Phantom",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5c/Reaver%2C_EP_5_Odin.png",
+    "collectionEdition": "Premium",
+    "collection": "Reaver, EP 5",
+    "weapon": "Odin",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0d/Reaver%2C_EP_5_Karambit.png",
+    "collectionEdition": "Premium",
+    "collection": "Reaver, EP 5",
+    "weapon": "Karambit",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/95/Kohaku_%26_Matsuba_Classic.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Kohaku & Matsuba",
+    "weapon": "Classic",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/77/Kohaku_%26_Matsuba_Judge.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Kohaku & Matsuba",
+    "weapon": "Judge",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/2c/Kohaku_%26_Matsuba_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Kohaku & Matsuba",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3b/Kohaku_%26_Matsuba_Operator.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Kohaku & Matsuba",
+    "weapon": "Operator",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/81/Equilibrium.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Kohaku & Matsuba",
+    "weapon": "Equilibrium",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/69/ChronoVoid_Sheriff.png",
+    "collectionEdition": "Exclusive",
+    "collection": "ChronoVoid",
+    "weapon": "Sheriff",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/ae/ChronoVoid_Judge.png",
+    "collectionEdition": "Exclusive",
+    "collection": "ChronoVoid",
+    "weapon": "Judge",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/ca/ChronoVoid_Phantom.png",
+    "collectionEdition": "Exclusive",
+    "collection": "ChronoVoid",
+    "weapon": "Phantom",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/93/ChronoVoid_Vandal.png",
+    "collectionEdition": "Exclusive",
+    "collection": "ChronoVoid",
+    "weapon": "Vandal",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0d/Terminus_A_Quo.png",
+    "collectionEdition": "Exclusive",
+    "collection": "ChronoVoid",
+    "weapon": "Terminus A Quo",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/42/Crimsonbeast_Sheriff.png",
+    "collectionEdition": "Premium",
+    "collection": "Crimsonbeast",
+    "weapon": "Sheriff",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/79/Crimsonbeast_Judge.png",
+    "collectionEdition": "Premium",
+    "collection": "Crimsonbeast",
+    "weapon": "Judge",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/cf/Crimsonbeast_Vandal.png",
+    "collectionEdition": "Premium",
+    "collection": "Crimsonbeast",
+    "weapon": "Vandal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5c/Crimsonbeast_Marshal.png",
+    "collectionEdition": "Premium",
+    "collection": "Crimsonbeast",
+    "weapon": "Marshal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/42/Crimsonbeast_Hammer.png",
+    "collectionEdition": "Premium",
+    "collection": "Crimsonbeast",
+    "weapon": "Hammer",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/9f/Ion_Frenzy.png",
+    "collectionEdition": "Premium",
+    "collection": "Ion",
+    "weapon": "Frenzy",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4b/Ion_Spectre.png",
+    "collectionEdition": "Premium",
+    "collection": "Ion",
+    "weapon": "Spectre",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e8/Ion_Vandal.png",
+    "collectionEdition": "Premium",
+    "collection": "Ion",
+    "weapon": "Vandal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c3/Ion_Ares.png",
+    "collectionEdition": "Premium",
+    "collection": "Ion",
+    "weapon": "Ares",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a6/Ion_Karambit.png",
+    "collectionEdition": "Premium",
+    "collection": "Ion",
+    "weapon": "Karambit",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d7/Soulstrife_Ghost.png",
+    "collectionEdition": "Premium",
+    "collection": "Soulstrife",
+    "weapon": "Ghost",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/9a/Soulstrife_Spectre.png",
+    "collectionEdition": "Premium",
+    "collection": "Soulstrife",
+    "weapon": "Spectre",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/ba/Soulstrife_Guardian.png",
+    "collectionEdition": "Premium",
+    "collection": "Soulstrife",
+    "weapon": "Guardian",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/99/Soulstrife_Phantom.png",
+    "collectionEdition": "Premium",
+    "collection": "Soulstrife",
+    "weapon": "Phantom",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/00/Soulstrife_Scythe.png",
+    "collectionEdition": "Premium",
+    "collection": "Soulstrife",
+    "weapon": "Scythe",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/ec/Abyssal_Sheriff.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Abyssal",
+    "weapon": "Sheriff",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/61/Abyssal_Spectre.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Abyssal",
+    "weapon": "Spectre",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a3/Abyssal_Guardian.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Abyssal",
+    "weapon": "Guardian",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/95/Abyssal_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Abyssal",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/87/Caeruleus.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Abyssal",
+    "weapon": "Caeruleus",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c9/Cryostasis_Classic.png",
+    "collectionEdition": "Premium",
+    "collection": "Cryostasis",
+    "weapon": "Classic",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/59/Cryostasis_Bulldog.png",
+    "collectionEdition": "Premium",
+    "collection": "Cryostasis",
+    "weapon": "Bulldog",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/01/Cryostasis_Vandal.png",
+    "collectionEdition": "Premium",
+    "collection": "Cryostasis",
+    "weapon": "Vandal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3e/Cryostasis_Operator.png",
+    "collectionEdition": "Premium",
+    "collection": "Cryostasis",
+    "weapon": "Operator",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f3/Cryostasis_Impact_Drill.png",
+    "collectionEdition": "Premium",
+    "collection": "Cryostasis",
+    "weapon": "Impact Drill",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e4/Araxys_Shorty.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Araxys",
+    "weapon": "Shorty",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/24/Araxys_Bulldog.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Araxys",
+    "weapon": "Bulldog",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e1/Araxys_Vandal.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Araxys",
+    "weapon": "Vandal",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/fe/Araxys_Operator.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Araxys",
+    "weapon": "Operator",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/07/Araxys_Bio_Harvester.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Araxys",
+    "weapon": "Bio Harvester",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5d/Luna_Ghost.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Luna",
+    "weapon": "Ghost",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/65/Luna_Spectre.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Luna",
+    "weapon": "Spectre",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/06/Luna_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Luna",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/6e/Luna_Marshal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Luna",
+    "weapon": "Marshal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a5/Luna%27s_Descent.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Luna",
+    "weapon": "Luna's Descent",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c5/Reverie_Classic.png",
+    "collectionEdition": "Select",
+    "collection": "Reverie",
+    "weapon": "Classic",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/6b/Reverie_Guardian.png",
+    "collectionEdition": "Select",
+    "collection": "Reverie",
+    "weapon": "Guardian",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c2/Reverie_Phantom.png",
+    "collectionEdition": "Select",
+    "collection": "Reverie",
+    "weapon": "Phantom",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/19/Reverie_Marshal.png",
+    "collectionEdition": "Select",
+    "collection": "Reverie",
+    "weapon": "Marshal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/57/Reverie_Sword.png",
+    "collectionEdition": "Select",
+    "collection": "Reverie",
+    "weapon": "Sword",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a8/Oni_Frenzy.png",
+    "collectionEdition": "Premium",
+    "collection": "Oni",
+    "weapon": "Frenzy",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0b/Oni_Bulldog.png",
+    "collectionEdition": "Premium",
+    "collection": "Oni",
+    "weapon": "Bulldog",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3b/Oni_Vandal.png",
+    "collectionEdition": "Premium",
+    "collection": "Oni",
+    "weapon": "Vandal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/69/Oni_Ares.png",
+    "collectionEdition": "Premium",
+    "collection": "Oni",
+    "weapon": "Ares",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d6/Onimaru_Kunitsuna.png",
+    "collectionEdition": "Premium",
+    "collection": "Oni",
+    "weapon": "Onimaru Kunitsuna",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/eb/Altitude_Sheriff.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Altitude",
+    "weapon": "Sheriff",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/db/Altitude_Bucky.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Altitude",
+    "weapon": "Bucky",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/84/Altitude_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Altitude",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/fc/Altitude_Odin.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Altitude",
+    "weapon": "Odin",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/78/Altitude_Knuckle_Knife.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Altitude",
+    "weapon": "Knuckle Knife",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e8/Black.Market_Classic.png",
+    "collectionEdition": "Premium",
+    "collection": "Black.Market",
+    "weapon": "Classic",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4b/Black.Market_Bulldog.png",
+    "collectionEdition": "Premium",
+    "collection": "Black.Market",
+    "weapon": "Bulldog",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/31/Black.Market_Vandal.png",
+    "collectionEdition": "Premium",
+    "collection": "Black.Market",
+    "weapon": "Vandal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/08/Black.Market_Marshal.png",
+    "collectionEdition": "Premium",
+    "collection": "Black.Market",
+    "weapon": "Marshal",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5f/Black.Market_Butterfly_Knife.png",
+    "collectionEdition": "Premium",
+    "collection": "Black.Market",
+    "weapon": "Butterfly Knife",
+    "star": 3
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/05/Radiant_Entertainment_System_Ghost.png",
+    "collectionEdition": "Ultra",
+    "collection": "Radiant Entertainment System",
+    "weapon": "Ghost",
+    "star": 5
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/6f/Radiant_Entertainment_System_Bulldog.png",
+    "collectionEdition": "Ultra",
+    "collection": "Radiant Entertainment System",
+    "weapon": "Bulldog",
+    "star": 5
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b6/Radiant_Entertainment_System_Phantom.png",
+    "collectionEdition": "Ultra",
+    "collection": "Radiant Entertainment System",
+    "weapon": "Phantom",
+    "star": 5
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/53/Radiant_Entertainment_System_Operator.png",
+    "collectionEdition": "Ultra",
+    "collection": "Radiant Entertainment System",
+    "weapon": "Operator",
+    "star": 5
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/98/Power_Fist.png",
+    "collectionEdition": "Ultra",
+    "collection": "Radiant Entertainment System",
+    "weapon": "Power Fist",
+    "star": 5
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/09/Kingdom_Bucky.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Kingdom",
+    "weapon": "Bucky",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f0/Kingdom_Spectre.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Kingdom",
+    "weapon": "Spectre",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5c/Kingdom_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Kingdom",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/17/Kingdom_Classic.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Kingdom",
+    "weapon": "Classic",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c5/Kingdom_Knife.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Kingdom",
+    "weapon": "Knife",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/ac/Couture_Bulldog.png",
+    "collectionEdition": "Select",
+    "collection": "Couture",
+    "weapon": "Bulldog",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/59/Couture_Stinger.png",
+    "collectionEdition": "Select",
+    "collection": "Couture",
+    "weapon": "Stinger",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/ea/Couture_Frenzy.png",
+    "collectionEdition": "Select",
+    "collection": "Couture",
+    "weapon": "Frenzy",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d2/Couture_Marshal.png",
+    "collectionEdition": "Select",
+    "collection": "Couture",
+    "weapon": "Marshal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f3/.EXE_Odin.png",
+    "collectionEdition": "Select",
+    "collection": ".EXE",
+    "weapon": "Odin",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/52/.EXE_Ghost.png",
+    "collectionEdition": "Select",
+    "collection": ".EXE",
+    "weapon": "Ghost",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0f/.EXE_Judge.png",
+    "collectionEdition": "Select",
+    "collection": ".EXE",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4b/.EXE_Vandal.png",
+    "collectionEdition": "Select",
+    "collection": ".EXE",
+    "weapon": "Vandal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d3/Hivemind_Ares.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Hivemind",
+    "weapon": "Ares",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/92/Hivemind_Spectre.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Hivemind",
+    "weapon": "Spectre",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/47/Hivemind_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Hivemind",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e6/Hivemind_Shorty.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Hivemind",
+    "weapon": "Shorty",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b1/Hivemind_Sword.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Hivemind",
+    "weapon": "Sword",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f5/POLYfox_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "POLYfox",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/7d/POLYfox_Bulldog.png",
+    "collectionEdition": "Select",
+    "collection": "POLYfox",
+    "weapon": "Bulldog",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0b/POLYfox_Sheriff.png",
+    "collectionEdition": "Select",
+    "collection": "POLYfox",
+    "weapon": "Sheriff",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/52/POLYfox_Guardian.png",
+    "collectionEdition": "Select",
+    "collection": "POLYfox",
+    "weapon": "Guardian",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/2a/Red_Alert_Bucky.png",
+    "collectionEdition": "Select",
+    "collection": "Red Alert",
+    "weapon": "Bucky",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/7d/Red_Alert_Stinger.png",
+    "collectionEdition": "Select",
+    "collection": "Red Alert",
+    "weapon": "Stinger",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/44/Red_Alert_Classic.png",
+    "collectionEdition": "Select",
+    "collection": "Red Alert",
+    "weapon": "Classic",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c6/Red_Alert_Operator.png",
+    "collectionEdition": "Select",
+    "collection": "Red Alert",
+    "weapon": "Operator",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c5/Ruin_Marshal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Ruin",
+    "weapon": "Marshal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/53/Ruin_Shorty.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Ruin",
+    "weapon": "Shorty",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/64/Ruin_Guardian.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Ruin",
+    "weapon": "Guardian",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/48/Ruin_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Ruin",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f4/Ruin_Dagger.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Ruin",
+    "weapon": "Dagger",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f3/Serenity_Ghost.png",
+    "collectionEdition": "Select",
+    "collection": "Serenity",
+    "weapon": "Ghost",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/88/Serenity_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "Serenity",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/20/Serenity_Phantom.png",
+    "collectionEdition": "Select",
+    "collection": "Serenity",
+    "weapon": "Phantom",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d4/Serenity_Spectre.png",
+    "collectionEdition": "Select",
+    "collection": "Serenity",
+    "weapon": "Spectre",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c7/Surge_Bucky.png",
+    "collectionEdition": "Select",
+    "collection": "Surge",
+    "weapon": "Bucky",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/ef/Surge_Classic.png",
+    "collectionEdition": "Select",
+    "collection": "Surge",
+    "weapon": "Classic",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/ac/Surge_Stinger.png",
+    "collectionEdition": "Select",
+    "collection": "Surge",
+    "weapon": "Stinger",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/be/Surge_Sheriff.png",
+    "collectionEdition": "Select",
+    "collection": "Surge",
+    "weapon": "Sheriff",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f4/Infinity_Bulldog.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Infinity",
+    "weapon": "Bulldog",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/61/Infinity_Spectre.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Infinity",
+    "weapon": "Spectre",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/8b/Infinity_Guardian.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Infinity",
+    "weapon": "Guardian",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/db/Infinity_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Infinity",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/2f/Infinity_Classic.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Infinity",
+    "weapon": "Classic",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/75/Aerosol_Bucky.png",
+    "collectionEdition": "Select",
+    "collection": "Aerosol",
+    "weapon": "Bucky",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/95/Aerosol_Shorty.png",
+    "collectionEdition": "Select",
+    "collection": "Aerosol",
+    "weapon": "Shorty",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/05/Aerosol_Operator.png",
+    "collectionEdition": "Select",
+    "collection": "Aerosol",
+    "weapon": "Operator",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/34/Aerosol_Odin.png",
+    "collectionEdition": "Select",
+    "collection": "Aerosol",
+    "weapon": "Odin",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/20/Outpost_Ghost.png",
+    "collectionEdition": "Select",
+    "collection": "Outpost",
+    "weapon": "Ghost",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/06/Outpost_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "Outpost",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/84/Outpost_Ares.png",
+    "collectionEdition": "Select",
+    "collection": "Outpost",
+    "weapon": "Ares",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/9c/Outpost_Melee.png",
+    "collectionEdition": "Select",
+    "collection": "Outpost",
+    "weapon": "Melee",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c6/POLYfrog_Marshal.png",
+    "collectionEdition": "Select",
+    "collection": "POLYfrog",
+    "weapon": "Marshal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/9e/POLYfrog_Sheriff.png",
+    "collectionEdition": "Select",
+    "collection": "POLYfrog",
+    "weapon": "Sheriff",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5c/POLYfrog_Ares.png",
+    "collectionEdition": "Select",
+    "collection": "POLYfrog",
+    "weapon": "Ares",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4b/POLYfrog_Spectre.png",
+    "collectionEdition": "Select",
+    "collection": "POLYfrog",
+    "weapon": "Spectre",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/16/Prism_III_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "Prism III",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d2/Prism_III_Odin.png",
+    "collectionEdition": "Select",
+    "collection": "Prism III",
+    "weapon": "Odin",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/6a/Prism_III_Classic.png",
+    "collectionEdition": "Select",
+    "collection": "Prism III",
+    "weapon": "Classic",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/df/Prism_III_Axe.png",
+    "collectionEdition": "Select",
+    "collection": "Prism III",
+    "weapon": "Axe",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c4/Cavalier_Stinger.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Cavalier",
+    "weapon": "Stinger",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5a/Cavalier_Ghost.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Cavalier",
+    "weapon": "Ghost",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b9/Cavalier_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Cavalier",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/72/Cavalier_Bucky.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Cavalier",
+    "weapon": "Bucky",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/81/Cavalier_Operator.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Cavalier",
+    "weapon": "Operator",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5e/Songsteel_Guardian.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Songsteel",
+    "weapon": "Guardian",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3e/Songsteel_Classic.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Songsteel",
+    "weapon": "Classic",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5d/Songsteel_Marshal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Songsteel",
+    "weapon": "Marshal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/37/Songsteel_Melee.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Songsteel",
+    "weapon": "Melee",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/ab/Depths_Bulldog.png",
+    "collectionEdition": "Select",
+    "collection": "Depths",
+    "weapon": "Bulldog",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/73/Depths_Stinger.png",
+    "collectionEdition": "Select",
+    "collection": "Depths",
+    "weapon": "Stinger",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f7/Depths_Ghost.png",
+    "collectionEdition": "Select",
+    "collection": "Depths",
+    "weapon": "Ghost",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3b/Depths_Vandal.png",
+    "collectionEdition": "Select",
+    "collection": "Depths",
+    "weapon": "Vandal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/cd/Lightwave_Sheriff.png",
+    "collectionEdition": "Select",
+    "collection": "Lightwave",
+    "weapon": "Sheriff",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/90/Lightwave_Bucky.png",
+    "collectionEdition": "Select",
+    "collection": "Lightwave",
+    "weapon": "Bucky",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a3/Lightwave_Phantom.png",
+    "collectionEdition": "Select",
+    "collection": "Lightwave",
+    "weapon": "Phantom",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/25/Lightwave_Odin.png",
+    "collectionEdition": "Select",
+    "collection": "Lightwave",
+    "weapon": "Odin",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3a/Lightwave_Frenzy.png",
+    "collectionEdition": "Select",
+    "collection": "Lightwave",
+    "weapon": "Frenzy",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/08/KTAC_Sheriff.png",
+    "collectionEdition": "Deluxe",
+    "collection": "K/TAC",
+    "weapon": "Sheriff",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/36/KTAC_Bulldog.png",
+    "collectionEdition": "Deluxe",
+    "collection": "K/TAC",
+    "weapon": "Bulldog",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/59/KTAC_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "K/TAC",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/fe/KTAC_Operator.png",
+    "collectionEdition": "Deluxe",
+    "collection": "K/TAC",
+    "weapon": "Operator",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3d/KTAC_Blade.png",
+    "collectionEdition": "Deluxe",
+    "collection": "K/TAC",
+    "weapon": "Blade",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c7/Jigsaw_Ares.png",
+    "collectionEdition": "Select",
+    "collection": "Jigsaw",
+    "weapon": "Ares",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a2/Jigsaw_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "Jigsaw",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/25/Jigsaw_Guardian.png",
+    "collectionEdition": "Select",
+    "collection": "Jigsaw",
+    "weapon": "Guardian",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/13/Jigsaw_Ghost.png",
+    "collectionEdition": "Select",
+    "collection": "Jigsaw",
+    "weapon": "Ghost",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f5/Monarch_Shorty.png",
+    "collectionEdition": "Select",
+    "collection": "Monarch",
+    "weapon": "Shorty",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/fa/Monarch_Bucky.png",
+    "collectionEdition": "Select",
+    "collection": "Monarch",
+    "weapon": "Bucky",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/ef/Monarch_Frenzy.png",
+    "collectionEdition": "Select",
+    "collection": "Monarch",
+    "weapon": "Frenzy",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d0/Monarch_Marshal.png",
+    "collectionEdition": "Select",
+    "collection": "Monarch",
+    "weapon": "Marshal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/28/Artisan_Marshal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Artisan",
+    "weapon": "Marshal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/af/Artisan_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Artisan",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5c/Artisan_Bucky.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Artisan",
+    "weapon": "Bucky",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0d/Artisan_Ghost.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Artisan",
+    "weapon": "Ghost",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/7c/Artisan_Foil.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Artisan",
+    "weapon": "Foil",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3e/Nitro_Odin.png",
+    "collectionEdition": "Select",
+    "collection": "Nitro",
+    "weapon": "Odin",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/8f/Nitro_Guardian.png",
+    "collectionEdition": "Select",
+    "collection": "Nitro",
+    "weapon": "Guardian",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a0/Nitro_Vandal.png",
+    "collectionEdition": "Select",
+    "collection": "Nitro",
+    "weapon": "Vandal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d5/Nitro_Operator.png",
+    "collectionEdition": "Select",
+    "collection": "Nitro",
+    "weapon": "Operator",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/fe/Varnish_Bulldog.png",
+    "collectionEdition": "Select",
+    "collection": "Varnish",
+    "weapon": "Bulldog",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/eb/Varnish_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "Varnish",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0d/Varnish_Sheriff.png",
+    "collectionEdition": "Select",
+    "collection": "Varnish",
+    "weapon": "Sheriff",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/9a/Varnish_Stinger.png",
+    "collectionEdition": "Select",
+    "collection": "Varnish",
+    "weapon": "Stinger",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4b/Aero_Spectre.png",
+    "collectionEdition": "Select",
+    "collection": "Aero",
+    "weapon": "Spectre",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d1/Aero_Guardian.png",
+    "collectionEdition": "Select",
+    "collection": "Aero",
+    "weapon": "Guardian",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e9/Aero_Phantom.png",
+    "collectionEdition": "Select",
+    "collection": "Aero",
+    "weapon": "Phantom",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/ed/Aero_Frenzy.png",
+    "collectionEdition": "Select",
+    "collection": "Aero",
+    "weapon": "Frenzy",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/78/Genesis_Bulldog.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Genesis",
+    "weapon": "Bulldog",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b9/Genesis_Shorty.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Genesis",
+    "weapon": "Shorty",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/6e/Genesis_Operator.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Genesis",
+    "weapon": "Operator",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/15/Genesis_Bucky.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Genesis",
+    "weapon": "Bucky",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d5/Genesis_Arc.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Genesis",
+    "weapon": "Arc",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/8a/Goldwing_Classic.png",
+    "collectionEdition": "Select",
+    "collection": "Goldwing",
+    "weapon": "Classic",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/bb/Goldwing_Ares.png",
+    "collectionEdition": "Select",
+    "collection": "Goldwing",
+    "weapon": "Ares",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b8/Goldwing_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "Goldwing",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/ff/Goldwing_Ghost.png",
+    "collectionEdition": "Select",
+    "collection": "Goldwing",
+    "weapon": "Ghost",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4b/Hydrodip_Frenzy.png",
+    "collectionEdition": "Select",
+    "collection": "Hydrodip",
+    "weapon": "Frenzy",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/33/Hydrodip_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "Hydrodip",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/88/Hydrodip_Guardian.png",
+    "collectionEdition": "Select",
+    "collection": "Hydrodip",
+    "weapon": "Guardian",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/92/Hydrodip_Bucky.png",
+    "collectionEdition": "Select",
+    "collection": "Hydrodip",
+    "weapon": "Bucky",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b0/Schema_Stinger.png",
+    "collectionEdition": "Select",
+    "collection": "Schema",
+    "weapon": "Stinger",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/75/Schema_Sheriff.png",
+    "collectionEdition": "Select",
+    "collection": "Schema",
+    "weapon": "Sheriff",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/ad/Schema_Odin.png",
+    "collectionEdition": "Select",
+    "collection": "Schema",
+    "weapon": "Odin",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/bd/Schema_Vandal.png",
+    "collectionEdition": "Select",
+    "collection": "Schema",
+    "weapon": "Vandal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/db/Velocity_Bulldog.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Velocity",
+    "weapon": "Bulldog",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/08/Velocity_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Velocity",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f0/Velocity_Spectre.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Velocity",
+    "weapon": "Spectre",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/cc/Velocity_Shorty.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Velocity",
+    "weapon": "Shorty",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/51/Velocity_Karambit.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Velocity",
+    "weapon": "Karambit",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/65/Divine_Swine_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "Divine Swine",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/77/Divine_Swine_Marshal.png",
+    "collectionEdition": "Select",
+    "collection": "Divine Swine",
+    "weapon": "Marshal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/8a/Divine_Swine_Ares.png",
+    "collectionEdition": "Select",
+    "collection": "Divine Swine",
+    "weapon": "Ares",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d3/Divine_Swine_Frenzy.png",
+    "collectionEdition": "Select",
+    "collection": "Divine Swine",
+    "weapon": "Frenzy",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/ef/Lycan%27s_Bane_Ghost.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Lycan's Bane",
+    "weapon": "Ghost",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/fc/Lycan%27s_Bane_Stinger.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Lycan's Bane",
+    "weapon": "Stinger",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/14/Lycan%27s_Bane_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Lycan's Bane",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0e/Lycan%27s_Bane_Odin.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Lycan's Bane",
+    "weapon": "Odin",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a8/Striker_Spectre.png",
+    "collectionEdition": "Select",
+    "collection": "Striker",
+    "weapon": "Spectre",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/7c/Striker_Bulldog.png",
+    "collectionEdition": "Select",
+    "collection": "Striker",
+    "weapon": "Bulldog",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/30/Striker_Operator.png",
+    "collectionEdition": "Select",
+    "collection": "Striker",
+    "weapon": "Operator",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/1a/Striker_Knife.png",
+    "collectionEdition": "Select",
+    "collection": "Striker",
+    "weapon": "Knife",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/11/Striker_Classic.png",
+    "collectionEdition": "Select",
+    "collection": "Striker",
+    "weapon": "Classic",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f1/.SYS_Sheriff.png",
+    "collectionEdition": "Deluxe",
+    "collection": ".SYS",
+    "weapon": "Sheriff",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/79/.SYS_Bucky.png",
+    "collectionEdition": "Deluxe",
+    "collection": ".SYS",
+    "weapon": "Bucky",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/21/.SYS_Stinger.png",
+    "collectionEdition": "Deluxe",
+    "collection": ".SYS",
+    "weapon": "Stinger",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/37/.SYS_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": ".SYS",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f8/.SYS_Melee.png",
+    "collectionEdition": "Deluxe",
+    "collection": ".SYS",
+    "weapon": "Melee",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b3/Coalition_Cobra_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "Coalition: Cobra",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/80/Coalition_Cobra_Odin.png",
+    "collectionEdition": "Select",
+    "collection": "Coalition: Cobra",
+    "weapon": "Odin",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/56/Coalition_Cobra_Marshal.png",
+    "collectionEdition": "Select",
+    "collection": "Coalition: Cobra",
+    "weapon": "Marshal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b7/Coalition_Cobra_Frenzy.png",
+    "collectionEdition": "Select",
+    "collection": "Coalition: Cobra",
+    "weapon": "Frenzy",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f6/Hue_Shift_Shorty.png",
+    "collectionEdition": "Select",
+    "collection": "Hue Shift",
+    "weapon": "Shorty",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/fc/Hue_Shift_Bulldog.png",
+    "collectionEdition": "Select",
+    "collection": "Hue Shift",
+    "weapon": "Bulldog",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4a/Hue_Shift_Phantom.png",
+    "collectionEdition": "Select",
+    "collection": "Hue Shift",
+    "weapon": "Phantom",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b6/Hue_Shift_Spectre.png",
+    "collectionEdition": "Select",
+    "collection": "Hue Shift",
+    "weapon": "Spectre",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/7e/Task_Force_809_Frenzy.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Task Force 809",
+    "weapon": "Frenzy",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/07/Task_Force_809_Spectre.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Task Force 809",
+    "weapon": "Spectre",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/7b/Task_Force_809_Marshal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Task Force 809",
+    "weapon": "Marshal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/07/Task_Force_809_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Task Force 809",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0b/Task_Force_809_Knife.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Task Force 809",
+    "weapon": "Knife",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a8/Shimmer_Stinger.png",
+    "collectionEdition": "Select",
+    "collection": "Shimmer",
+    "weapon": "Stinger",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/75/Shimmer_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "Shimmer",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/ee/Shimmer_Bulldog.png",
+    "collectionEdition": "Select",
+    "collection": "Shimmer",
+    "weapon": "Bulldog",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/2e/Shimmer_Classic.png",
+    "collectionEdition": "Select",
+    "collection": "Shimmer",
+    "weapon": "Classic",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0d/Spitfire_Ghost.png",
+    "collectionEdition": "Select",
+    "collection": "Spitfire",
+    "weapon": "Ghost",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/de/Spitfire_Ares.png",
+    "collectionEdition": "Select",
+    "collection": "Spitfire",
+    "weapon": "Ares",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e1/Spitfire_Operator.png",
+    "collectionEdition": "Select",
+    "collection": "Spitfire",
+    "weapon": "Operator",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4d/Spitfire_Guardian.png",
+    "collectionEdition": "Select",
+    "collection": "Spitfire",
+    "weapon": "Guardian",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/bc/Piedra_del_Sol_Ghost.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Piedra del Sol",
+    "weapon": "Ghost",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/ef/Piedra_del_Sol_Bucky.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Piedra del Sol",
+    "weapon": "Bucky",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/83/Piedra_del_Sol_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Piedra del Sol",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/68/Piedra_del_Sol_Judge.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Piedra del Sol",
+    "weapon": "Judge",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4d/Obsidiana.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Piedra del Sol",
+    "weapon": "Obsidiana",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/54/Premiere_Collision_Classic.png",
+    "collectionEdition": "Select",
+    "collection": "Premiere Collision",
+    "weapon": "Classic",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0b/Premiere_Collision_Marshal.png",
+    "collectionEdition": "Select",
+    "collection": "Premiere Collision",
+    "weapon": "Marshal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/fb/Premiere_Collision_Ares.png",
+    "collectionEdition": "Select",
+    "collection": "Premiere Collision",
+    "weapon": "Ares",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4c/Premiere_Collision_Bulldog.png",
+    "collectionEdition": "Select",
+    "collection": "Premiere Collision",
+    "weapon": "Bulldog",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f1/Immortalized_Guardian.png",
+    "collectionEdition": "Select",
+    "collection": "Immortalized",
+    "weapon": "Guardian",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3d/Immortalized_Stinger.png",
+    "collectionEdition": "Select",
+    "collection": "Immortalized",
+    "weapon": "Stinger",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/eb/Immortalized_Vandal.png",
+    "collectionEdition": "Select",
+    "collection": "Immortalized",
+    "weapon": "Vandal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/62/Immortalized_Sheriff.png",
+    "collectionEdition": "Select",
+    "collection": "Immortalized",
+    "weapon": "Sheriff",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/56/Iridian_Thorn_Judge.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Iridian Thorn",
+    "weapon": "Judge",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/ab/Iridian_Thorn_Sheriff.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Iridian Thorn",
+    "weapon": "Sheriff",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/2c/Iridian_Thorn_Bucky.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Iridian Thorn",
+    "weapon": "Bucky",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/af/Iridian_Thorn_Operator.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Iridian Thorn",
+    "weapon": "Operator",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/51/Iridian_Thorn_Blade.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Iridian Thorn",
+    "weapon": "Blade",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/2b/Rune_Stone_Marshal.png",
+    "collectionEdition": "Select",
+    "collection": "Rune Stone",
+    "weapon": "Marshal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f9/Rune_Stone_Bulldog.png",
+    "collectionEdition": "Select",
+    "collection": "Rune Stone",
+    "weapon": "Bulldog",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/6f/Rune_Stone_Shorty.png",
+    "collectionEdition": "Select",
+    "collection": "Rune Stone",
+    "weapon": "Shorty",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/79/Rune_Stone_Odin.png",
+    "collectionEdition": "Select",
+    "collection": "Rune Stone",
+    "weapon": "Odin",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4c/Starlit_Odyssey_Guardian.png",
+    "collectionEdition": "Select",
+    "collection": "Starlit Odyssey",
+    "weapon": "Guardian",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/2b/Starlit_Odyssey_Vandal.png",
+    "collectionEdition": "Select",
+    "collection": "Starlit Odyssey",
+    "weapon": "Vandal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3b/Starlit_Odyssey_Spectre.png",
+    "collectionEdition": "Select",
+    "collection": "Starlit Odyssey",
+    "weapon": "Spectre",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/37/Starlit_Odyssey_Ghost.png",
+    "collectionEdition": "Select",
+    "collection": "Starlit Odyssey",
+    "weapon": "Ghost",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e4/Venturi_Frenzy.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Venturi",
+    "weapon": "Frenzy",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/1b/Venturi_Marshal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Venturi",
+    "weapon": "Marshal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f9/Venturi_Spectre.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Venturi",
+    "weapon": "Spectre",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/cc/Venturi_Vandal.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Venturi",
+    "weapon": "Vandal",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/c9/Venturi_Knife.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Venturi",
+    "weapon": "Knife",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/dc/9_Lives_Guardian.png",
+    "collectionEdition": "Select",
+    "collection": "9 Lives",
+    "weapon": "Guardian",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/49/9_Lives_Ares.png",
+    "collectionEdition": "Select",
+    "collection": "9 Lives",
+    "weapon": "Ares",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f7/9_Lives_Phantom.png",
+    "collectionEdition": "Select",
+    "collection": "9 Lives",
+    "weapon": "Phantom",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/47/9_Lives_Classic.png",
+    "collectionEdition": "Select",
+    "collection": "9 Lives",
+    "weapon": "Classic",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/df/Gridcrash_Ghost.png",
+    "collectionEdition": "Select",
+    "collection": "Gridcrash",
+    "weapon": "Ghost",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/8e/Gridcrash_Judge.png",
+    "collectionEdition": "Select",
+    "collection": "Gridcrash",
+    "weapon": "Judge",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e2/Gridcrash_Stinger.png",
+    "collectionEdition": "Select",
+    "collection": "Gridcrash",
+    "weapon": "Stinger",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/9d/Gridcrash_Bulldog.png",
+    "collectionEdition": "Select",
+    "collection": "Gridcrash",
+    "weapon": "Bulldog",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/cd/Tilde_Judge.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Tilde",
+    "weapon": "Judge",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/05/Tilde_Operator.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Tilde",
+    "weapon": "Operator",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a3/Tilde_Bulldog.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Tilde",
+    "weapon": "Bulldog",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/7e/Tilde_Shorty.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Tilde",
+    "weapon": "Shorty",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/6a/Tilde_Knife.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Tilde",
+    "weapon": "Knife",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/e1/Topotek_Ghost.png",
+    "collectionEdition": "Select",
+    "collection": "Topotek",
+    "weapon": "Ghost",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/69/Topotek_Bucky.png",
+    "collectionEdition": "Select",
+    "collection": "Topotek",
+    "weapon": "Bucky",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/9/98/Topotek_Odin.png",
+    "collectionEdition": "Select",
+    "collection": "Topotek",
+    "weapon": "Odin",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/65/Topotek_Phantom.png",
+    "collectionEdition": "Select",
+    "collection": "Topotek",
+    "weapon": "Phantom",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/85/Signature_Sheriff.png",
+    "collectionEdition": "Select",
+    "collection": "Signature",
+    "weapon": "Sheriff",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/8a/Signature_Stinger.png",
+    "collectionEdition": "Select",
+    "collection": "Signature",
+    "weapon": "Stinger",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0f/Signature_Marshal.png",
+    "collectionEdition": "Select",
+    "collection": "Signature",
+    "weapon": "Marshal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/8/8d/Signature_Guardian.png",
+    "collectionEdition": "Select",
+    "collection": "Signature",
+    "weapon": "Guardian",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d2/Bound_Classic.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Bound",
+    "weapon": "Classic",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/26/Bound_Judge.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Bound",
+    "weapon": "Judge",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/53/Bound_Phantom.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Bound",
+    "weapon": "Phantom",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/af/Bound_Bulldog.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Bound",
+    "weapon": "Bulldog",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/0e/Bound.png",
+    "collectionEdition": "Deluxe",
+    "collection": "Bound",
+    "weapon": "Melee",
+    "star": 2
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/e/ea/Monstrocity_Ares.png",
+    "collectionEdition": "Select",
+    "collection": "Monstrocity",
+    "weapon": "Ares",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f4/Monstrocity_Spectre.png",
+    "collectionEdition": "Select",
+    "collection": "Monstrocity",
+    "weapon": "Spectre",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/bd/Monstrocity_Vandal.png",
+    "collectionEdition": "Select",
+    "collection": "Monstrocity",
+    "weapon": "Vandal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/ac/Monstrocity_Sheriff.png",
+    "collectionEdition": "Select",
+    "collection": "Monstrocity",
+    "weapon": "Sheriff",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/77/Moondash_Frenzy.png",
+    "collectionEdition": "Select",
+    "collection": "Moondash",
+    "weapon": "Frenzy",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f2/Moondash_Stinger.png",
+    "collectionEdition": "Select",
+    "collection": "Moondash",
+    "weapon": "Stinger",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3e/Moondash_Guardian.png",
+    "collectionEdition": "Select",
+    "collection": "Moondash",
+    "weapon": "Guardian",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f2/Moondash_Marshal.png",
+    "collectionEdition": "Select",
+    "collection": "Moondash",
+    "weapon": "Marshal",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/6/6c/Eclipse_Ghost.png",
+    "collectionEdition": "Select",
+    "collection": "Eclipse",
+    "weapon": "Ghost",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/59/Ragnarocker_Frenzy.png",
+    "collectionEdition": "Select",
+    "collection": "Ragnarocker",
+    "weapon": "Frenzy",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/2c/Peacekeeper_Sheriff.png",
+    "collectionEdition": "Select",
+    "collection": "Peacekeeper",
+    "weapon": "Sheriff",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/3e/Finesse_Classic.png",
+    "collectionEdition": "Select",
+    "collection": "Finesse",
+    "weapon": "Classic",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/08/Hush_Ghost.png",
+    "collectionEdition": "Select",
+    "collection": "Hush",
+    "weapon": "Ghost",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/43/Karabasan_Shorty.png",
+    "collectionEdition": "Select",
+    "collection": "Karabasan",
+    "weapon": "Shorty",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/c/cb/Sidekick_Shorty.png",
+    "collectionEdition": "Select",
+    "collection": "Sidekick",
+    "weapon": "Shorty",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/0/02/Wayfarer_Sheriff.png",
+    "collectionEdition": "Select",
+    "collection": "Wayfarer",
+    "weapon": "Sheriff",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d7/Game_Over_Sheriff.png",
+    "collectionEdition": "Select",
+    "collection": "Game Over",
+    "weapon": "Sheriff",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/f/f8/FIRE-ARM_Classic.png",
+    "collectionEdition": "Select",
+    "collection": "FIRE/arm",
+    "weapon": "Classic",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/7/79/Wunderkind_Shorty.png",
+    "collectionEdition": "Select",
+    "collection": "Wunderkind",
+    "weapon": "Shorty",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/3/32/Live_Wire_Frenzy.png",
+    "collectionEdition": "Select",
+    "collection": "Live Wire",
+    "weapon": "Frenzy",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/b7/Soul_Silencer_Ghost.png",
+    "collectionEdition": "Select",
+    "collection": "Soul Silencer",
+    "weapon": "Ghost",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/ad/Spitfire_Frenzy.png",
+    "collectionEdition": "Select",
+    "collection": "Spitfire",
+    "weapon": "Frenzy",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/24/Pistolinha_Classic.png",
+    "collectionEdition": "Select",
+    "collection": "Pistolinha",
+    "weapon": "Classic",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/5/5f/Vendetta_Ghost.png",
+    "collectionEdition": "Select",
+    "collection": "Vendetta",
+    "weapon": "Ghost",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/28/Final_Chamber_Classic.png",
+    "collectionEdition": "Select",
+    "collection": "Final Chamber",
+    "weapon": "Classic",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/2e/Swooping_Frenzy.png",
+    "collectionEdition": "Select",
+    "collection": "Swooping",
+    "weapon": "Frenzy",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/4/4d/Protektor_Sheriff.png",
+    "collectionEdition": "Select",
+    "collection": "Protektor",
+    "weapon": "Sheriff",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/b/bf/Snakebite_Shorty.png",
+    "collectionEdition": "Select",
+    "collection": "Snakebite",
+    "weapon": "Shorty",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/18/Death_Wish_Sheriff.png",
+    "collectionEdition": "Select",
+    "collection": "Death Wish",
+    "weapon": "Sheriff",
+    "star": 1
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/19/Arcane_Sheriff.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Sheriff",
+    "weapon": "Arcane Collector's Set",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/a/a9/Champions_2021_Karambit.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Karambit",
+    "weapon": "Champions 2021 Collection",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/19/Champions_2021_Vandal.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Vandal",
+    "weapon": "Champions 2021 Collection",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/1/13/Champions_2022_Butterfly_Knife.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Butterfly Knife",
+    "weapon": "Champions 2022 Collection",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d6/Champions_2022_Phantom.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Phantom",
+    "weapon": "Champions 2022 Collection",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/2/2a/VCT_LOCKIN_Miseric%C3%B3rdia.png",
+    "collectionEdition": "Exclusive",
+    "collection": "Misericórdia",
+    "weapon": "VCT LOCK//IN Capsule",
+    "star": 4
+  },
+  {
+    "imageUrl": "https://static.wikia.nocookie.net/valorant/images/d/d8/Wayfinder_Shorty.png",
+    "collectionEdition": "Select",
+    "collection": "Shorty",
+    "weapon": "Prime Gaming drop",
+    "star": 1
+  }
+]
