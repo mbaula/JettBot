@@ -1,5 +1,6 @@
 const { EmbedBuilder, SlashCommandBuilder } = require('discord.js');
 const client = require("../../index");
+const { Users } = require('../../dbObjects.js');
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -13,8 +14,8 @@ module.exports = {
         const embed = new EmbedBuilder();
         const target = interaction.options.getUser('target');
 
-        const user = client.currency.get(target.id);
-        const balance = user ? user.dataValues.balance : 0;
+        const user = await Users.findOne({ where: { user_id: target.id } });
+        const balance = user ? user.balance : 0;
 
 		embed.setColor('#ffdd57')
         .setTitle(`Balance for ${target.username}`)

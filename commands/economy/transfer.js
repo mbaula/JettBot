@@ -1,5 +1,6 @@
 const { SlashCommandBuilder } = require('discord.js');
 const client = require("../../index");
+const { Users } = require('../../dbObjects.js');
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -17,8 +18,9 @@ module.exports = {
             .setRequired(true)
         ),
     async execute(interaction, client) {
-        const user = client.currency.get(interaction.user.id);
-        const currentAmount = user ? user.dataValues.balance : 0;
+        const user = await Users.findOne({ where: { user_id: interaction.user.id } });
+        const targetUser = await Users.findOne({ where: { user_id: interaction.options.getUser('target').id } });
+        const currentAmount = user ? user.balance : 0;
 
         const transferAmount = interaction.options.getInteger('amount');
         const transferTarget = interaction.options.getUser('target');
@@ -28,8 +30,8 @@ module.exports = {
         if (interaction.user.id === transferTarget.id) return interaction.reply(`You cannot transfer Valor Points to yourself. Nice try lil bro`);
         if (transferTarget.bot) return interaction.reply(`You cannot transfer Valor Points to a bot. They have no use for them! 🤦‍♀️`);
 
-        user.dataValues.balance -= transferAmount;       
-        client.currency.get(transferTarget.id).dataValues.balance += transferAmount;
+        user.balance -= transferAmount;       
+        targetUser.balance += transferAmount;
 
         return interaction.reply(`Successfully transferred ${transferAmount} Valor Points to ${transferTarget}. Your current balance is ${currentAmount - transferAmount} 💰`);
     },

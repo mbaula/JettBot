@@ -34,8 +34,8 @@ module.exports = {
         .setDescription('Roll for a weapon skin!'),
     async execute(interaction, client) {
         const embed = new EmbedBuilder();
-        const user = client.currency.get(interaction.user.id);
-        const balance = user ? user.dataValues.balance : 0;
+        const user = await Users.findOne({ where: { user_id: interaction.user.id } });
+        const balance = user ? user.balance : 0;
 
         if (balance <= 160) {
             return interaction.reply('You need at least 160 Valor Points to roll a skin.');
@@ -78,7 +78,7 @@ module.exports = {
 
             await new Promise(resolve => setTimeout(resolve, 2000));
 
-            user.dataValues.balance -= 160;
+            user.balance -= 160;
             await user.save();
 
             embed.setTitle('Roll Result')

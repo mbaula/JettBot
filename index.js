@@ -10,21 +10,20 @@ const { SpotifyPlugin } = require("@distube/spotify");
 
 // Create a new client instance
 const client = new Client({ intents: ["Guilds", "GuildMessages", "GuildVoiceStates","MessageContent"]});
-// Map to store the last time a user received VP and their current VP count
-const vpLimits = new Map();
 
 async function addBalance(id, amount) {
-	const user = client.currency.get(id);
+	const user = await Users.findOne({ where: { user_id: id } });
 
 	if (user) {
 		user.balance += Number(amount);
 		return user.save();
 	}
+	else {
+		const newUser = await Users.create({ user_id: id, balance: amount });
+		client.currency.set(id, newUser);
 
-	const newUser = await Users.create({ user_id: id, balance: amount });
-	client.currency.set(id, newUser);
-
-	return newUser;
+		return newUser;
+	}
 }
 
 client.distube = new DisTube(client, {
@@ -62,46 +61,49 @@ client.once(Events.ClientReady, async() => {
 	console.log(`Ready! Logged in as ${client.user.tag}`);
 });
 
+const vpCooldown = 8 * 60 * 60 * 1000; // Cooldown duration in milliseconds (8 hours)
 client.on(Events.MessageCreate, async message => {
     if (message.author.bot) return;
 
     const userId = message.author.id;
 
-    // Check if the user is already in the map
-    if (!vpLimits.has(userId)) {
-        // If not, initialize the user's VP count and set the last received time to the current time
-        vpLimits.set(userId, { count: 0, lastReceived: Date.now() });
-    }
+    let [user, created] = await Users.findOrCreate({
+		where: { user_id: userId },
+	});
+    if (created) {
+		// A new user was created
+		console.log('New user created:', user.user_id);
+	} else {
+		// User already exists
+	}
 
-    const userLimit = vpLimits.get(userId);
+    const userLastReceived = user.last_received.getTime(); // Convert the last_received value to milliseconds
+
     const currentTime = Date.now();
 
     // Calculate the time elapsed since the last VP received
-    const timeElapsed = currentTime - userLimit.lastReceived;
+    const timeElapsed = currentTime - userLastReceived;
 
-    // Check if the time elapsed is greater than or equal to an hour (3600000 milliseconds)
-    if (timeElapsed >= 3600000) {
-        // If an hour has passed, reset the VP count and update the last received time to the current time
-        userLimit.count = 0;
-        userLimit.lastReceived = currentTime;
+    // Check if 8 hours have passed since the last VP received (28800000 milliseconds)
+    if (timeElapsed >= vpCooldown) {
+        // If 8 hours have passed, reset the last received time to the current time
+        user.last_received = new Date(currentTime);
+		user.vp_remaining = 320;
+        await user.save();
     }
 
-    const maxVPPerHour = 80;
-    const remainingVP = maxVPPerHour - userLimit.count;
+    const vpToAdd = Math.min(user.vp_remaining, 5); // Calculate the VP to add, limited to 5 VP per message and up to a maximum of 320 every 8 hours
 
-    // Check if the user has reached the maximum VP limit for the hour
-    if (remainingVP <= 0) {
+	console.log(user.vp_remaining);
+
+    if (vpToAdd <= 0) {
         return;
     }
 
-    // Calculate the VP to add based on the remaining limit or 5, whichever is smaller
-    const vpToAdd = Math.min(5, remainingVP);
-
     // Call the addBalance function to add VP to the user's balance
     addBalance(userId, vpToAdd);
-
-    // Update the user's VP count
-    userLimit.count += vpToAdd;
+	user.vp_remaining -= vpToAdd;
+	await user.save();
 });
 
 client.on(Events.InteractionCreate, async interaction => {
