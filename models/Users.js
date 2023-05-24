@@ -21,7 +21,8 @@ module.exports = (sequelize, DataTypes) => {
 		},
 		last_claimed_daily: {
             type: DataTypes.DATE,
-            defaultValue: null,
+            defaultValue: new Date(Date.now() - 86400000),
+            allowNull: false, // Allow null values for the column
         },
 	}, {
 		timestamps: false,
