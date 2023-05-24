@@ -1,4 +1,4 @@
-const { SlashCommandBuilder } = require('discord.js');
+const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
 const { Users } = require('../../dbObjects.js');
 
 module.exports = {
@@ -7,6 +7,7 @@ module.exports = {
         .setDescription('Claim your daily VP bonus'),
     async execute(interaction) {
         const userId = interaction.user.id;
+        const embed = new EmbedBuilder();
 
         // Check if the user has already claimed their daily bonus today
         const user = await Users.findOne({ where: { user_id: userId } });
@@ -31,6 +32,17 @@ module.exports = {
         user.last_claimed_daily = new Date();
         await user.save();
 
-        await interaction.reply(`Congratulations! You have claimed your daily bonus of 160 VP.`);
+        embed.setColor('#00ff00')
+                .setTitle('Daily Claim')
+                .setDescription(`Congratulations! You have \nclaimed your daily bonus of **160 VP**.`)
+                .setImage(`https://media.tenor.com/omzcVsxSIVIAAAAd/marved-tiktok.gif`);
+
+        const reply = await interaction.reply({ embeds: [embed] });
+
+        await new Promise(resolve => setTimeout(resolve, 3000));
+        
+        // Edit the original reply to remove the image
+        embed.setImage('https://pbs.twimg.com/media/Ez7a3GZWYAMMm2E.jpg');
+        interaction.editReply({ embeds: [embed] });
     },
 };

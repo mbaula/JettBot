@@ -71,12 +71,12 @@ module.exports = {
                 .setTitle('Roll Result')
                 .setDescription(`You rolled ...`);
 
-            const loadingGIF = 'https://media.tenor.com/lTn_Gj0ljzYAAAAd/jett-valorant.gif'; 
+            const loadingGIF = 'https://media.tenor.com/osLbfafwCRcAAAAd/astral-astral-empire.gif'; 
 
             embed.setImage(loadingGIF);
             const reply = await interaction.reply({ embeds: [embed] });
 
-            await new Promise(resolve => setTimeout(resolve, 2000));
+            await new Promise(resolve => setTimeout(resolve, 3200));
 
             user.balance -= 160;
             await user.save();
