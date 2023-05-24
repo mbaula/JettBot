@@ -76,12 +76,28 @@ module.exports = {
             embed.setImage(loadingGIF);
             const reply = await interaction.reply({ embeds: [embed] });
 
-            await new Promise(resolve => setTimeout(resolve, 3000));
+            await new Promise(resolve => setTimeout(resolve, 2000));
 
             user.dataValues.balance -= 160;
             await user.save();
 
-            embed.setImage(randomSkin.imageUrl);
+            embed.setTitle('Roll Result')
+            .setDescription(`You rolled a ${skinStar}★ skin: ${randomSkin.collection} ${randomSkin.weapon}`)
+            .setImage(randomSkin.imageUrl);
+
+            // Set embed color based on skinStar value
+            if (skinStar === 1) {
+                embed.setColor('#4f504f'); 
+            } else if (skinStar === 2) {
+                embed.setColor('#eaefed');
+            } else if (skinStar === 3) {
+                embed.setColor('#52d3de'); 
+            } else if (skinStar === 4) {
+                embed.setColor('#bd364f'); 
+            } else if (skinStar === 5) {
+                embed.setColor('#fef3a1'); 
+            }
+
             interaction.editReply({ embeds: [embed] });
         } catch (error) {
             console.error('Error adding skin to user_items table:', error);

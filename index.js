@@ -10,6 +10,8 @@ const { SpotifyPlugin } = require("@distube/spotify");
 
 // Create a new client instance
 const client = new Client({ intents: ["Guilds", "GuildMessages", "GuildVoiceStates","MessageContent"]});
+// Map to store the last time a user received VP and their current VP count
+const vpLimits = new Map();
 
 async function addBalance(id, amount) {
 	const user = client.currency.get(id);
@@ -61,8 +63,45 @@ client.once(Events.ClientReady, async() => {
 });
 
 client.on(Events.MessageCreate, async message => {
-	if (message.author.bot) return;
-	addBalance(message.author.id, 160);
+    if (message.author.bot) return;
+
+    const userId = message.author.id;
+
+    // Check if the user is already in the map
+    if (!vpLimits.has(userId)) {
+        // If not, initialize the user's VP count and set the last received time to the current time
+        vpLimits.set(userId, { count: 0, lastReceived: Date.now() });
+    }
+
+    const userLimit = vpLimits.get(userId);
+    const currentTime = Date.now();
+
+    // Calculate the time elapsed since the last VP received
+    const timeElapsed = currentTime - userLimit.lastReceived;
+
+    // Check if the time elapsed is greater than or equal to an hour (3600000 milliseconds)
+    if (timeElapsed >= 3600000) {
+        // If an hour has passed, reset the VP count and update the last received time to the current time
+        userLimit.count = 0;
+        userLimit.lastReceived = currentTime;
+    }
+
+    const maxVPPerHour = 100;
+    const remainingVP = maxVPPerHour - userLimit.count;
+
+    // Check if the user has reached the maximum VP limit for the hour
+    if (remainingVP <= 0) {
+        return;
+    }
+
+    // Calculate the VP to add based on the remaining limit or 5, whichever is smaller
+    const vpToAdd = Math.min(5, remainingVP);
+
+    // Call the addBalance function to add VP to the user's balance
+    addBalance(userId, vpToAdd);
+
+    // Update the user's VP count
+    userLimit.count += vpToAdd;
 });
 
 client.on(Events.InteractionCreate, async interaction => {
