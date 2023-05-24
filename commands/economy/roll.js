@@ -1,5 +1,7 @@
 const { EmbedBuilder, SlashCommandBuilder } = require('discord.js');
 const client = require("../../index");
+const { Users } = require('../../dbObjects.js');
+const crypto = require('crypto');
 
 const path = require('path');
 const skinsData = require('../../scraper/weapon_skins.json');
@@ -8,16 +10,22 @@ function rollSkin() {
     const randomNumber = Math.floor(Math.random() * 100) + 1;
   
     if (randomNumber <= 40) {
-      return 1; // 40% chance for 1★
+        return 1; // 40% chance for 1★
     } else if (randomNumber <= 70) {
-      return 2; // 30% chance for 2★
+        return 2; // 30% chance for 2★
     } else if (randomNumber <= 90) {
-      return 3; // 20% chance for 3★
+        return 3; // 20% chance for 3★
     } else if (randomNumber <= 97) {
-      return 4; // 7% chance for 4★
+        return 4; // 7% chance for 4★
     } else {
-      return 5; // 3% chance for 5★
+        return 5; // 3% chance for 5★
     }
+}
+
+function generateItemId(skinName) {
+    const hash = crypto.createHash('md5');
+    const itemId = hash.update(skinName).digest('hex');
+    return itemId;
 }
 
 module.exports = {
@@ -29,31 +37,54 @@ module.exports = {
         const user = client.currency.get(interaction.user.id);
         const balance = user ? user.dataValues.balance : 0;
 
-        if(balance <= 160)  return interaction.reply('You need at least 160 Valor Points to roll a skin.');
+        if (balance <= 160) {
+            return interaction.reply('You need at least 160 Valor Points to roll a skin.');
+        }
 
         const skinStar = rollSkin();
         const filteredSkins = skinsData.filter((skin) => skin.star === skinStar);
         const randomSkin = filteredSkins[Math.floor(Math.random() * filteredSkins.length)];
-        console.log(randomSkin);
 
+        let itemId = generateItemId(`${randomSkin.collection} + ${randomSkin.weapon}`);
+        
         try {
-            await UserItem.create({
-                userId: userId,
-                name: randomSkin.collection + randomSkin.weapon,
-                starLevel: skinStar,
-            });
+            console.log(interaction.user.id, itemId);
+            console.log(skinStar);
+            const existingUser = await Users.findOne({ where: { user_id: interaction.user.id } });
+
+            if (existingUser) {
+                const item = {
+                    id: itemId,
+                    skinName: randomSkin.collection + ' ' + randomSkin.weapon,
+                    starLevel: skinStar,
+                };
+
+                console.log('ITEM', item)
+
+                await existingUser.addItem(item);
+            } else {
+                console.error('User not found:', interaction.user.id);
+                return interaction.reply('Sorry, an error occurred while adding the skin to your collection. Please try again later.');
+            }
 
             embed.setColor('#00ff00')
-            .setTitle('Roll Result')
-            .setDescription(`You rolled a ${skinStar}★ skin: ${randomSkin.collection} ${randomSkin.weapon}`)
-            .setImage(randomSkin.imageUrl);
+                .setTitle('Roll Result')
+                .setDescription(`You rolled ...`);
 
-            user.dataValues.balance -= 160;  
+            const loadingGIF = 'https://media.tenor.com/lTn_Gj0ljzYAAAAd/jett-valorant.gif'; 
 
-            return interaction.reply({ embeds: [embed] });
+            embed.setImage(loadingGIF);
+            const reply = await interaction.reply({ embeds: [embed] });
+
+            await new Promise(resolve => setTimeout(resolve, 3000));
+
+            user.dataValues.balance -= 160;
+            await user.save();
+
+            embed.setImage(randomSkin.imageUrl);
+            interaction.editReply({ embeds: [embed] });
         } catch (error) {
             console.error('Error adding skin to user_items table:', error);
-            // Handle the error and provide appropriate feedback to the user
             await interaction.reply('Sorry, an error occurred while adding the skin to your collection. Please try again later.');
         }
     },

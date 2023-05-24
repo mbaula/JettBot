@@ -62,7 +62,7 @@ client.once(Events.ClientReady, async() => {
 
 client.on(Events.MessageCreate, async message => {
 	if (message.author.bot) return;
-	addBalance(message.author.id, 1);
+	addBalance(message.author.id, 160);
 });
 
 client.on(Events.InteractionCreate, async interaction => {

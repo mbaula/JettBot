@@ -17,6 +17,7 @@
     "spotify-url-info": "^3.2.4",
     "spotify-web-api-node": "^5.0.2",
     "sqlite3": "^5.1.6",
+    "uuidv5": "^1.0.0",
     "youtube-sr": "^4.3.4"
   },
   "name": "janetBot",
