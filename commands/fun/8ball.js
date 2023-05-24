@@ -36,7 +36,7 @@ module.exports = {
         const question = interaction.options.getString('question');
         const response = responses[Math.floor(Math.random() * responses.length)];
 
-        await interaction.reply(`"${response}"`);
+        await interaction.reply(`You asked: "${question}" \n\n **JettBot: ${response}**`);
     },
 };
 

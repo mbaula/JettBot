@@ -86,7 +86,7 @@ client.on(Events.MessageCreate, async message => {
         userLimit.lastReceived = currentTime;
     }
 
-    const maxVPPerHour = 100;
+    const maxVPPerHour = 80;
     const remainingVP = maxVPPerHour - userLimit.count;
 
     // Check if the user has reached the maximum VP limit for the hour
