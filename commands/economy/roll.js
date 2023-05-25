@@ -79,7 +79,6 @@ module.exports = {
             await new Promise(resolve => setTimeout(resolve, 3100));
 
             user.balance -= 160;
-            await user.save();
 
             embed.setTitle('Roll Result')
             .setDescription(`You rolled a ${skinStar}★ skin: ${randomSkin.collection} ${randomSkin.weapon}`)
@@ -97,6 +96,9 @@ module.exports = {
             } else if (skinStar === 5) {
                 embed.setColor('#fef3a1'); 
             }
+
+            user.score += skinStar * 20;
+            await user.save();
 
             interaction.editReply({ embeds: [embed] });
         } catch (error) {

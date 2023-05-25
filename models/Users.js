@@ -24,6 +24,11 @@ module.exports = (sequelize, DataTypes) => {
             defaultValue: new Date(Date.now() - 86400000),
             allowNull: false, // Allow null values for the column
         },
+		score: {
+			type: DataTypes.INTEGER,
+			defaultValue: 0,
+			allowNull: false,
+		},
 	}, {
 		timestamps: false,
 	});
