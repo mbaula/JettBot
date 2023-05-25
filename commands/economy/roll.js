@@ -48,8 +48,6 @@ module.exports = {
         let itemId = generateItemId(`${randomSkin.collection} + ${randomSkin.weapon}`);
         
         try {
-            console.log(interaction.user.id, itemId);
-            console.log(skinStar);
             const existingUser = await Users.findOne({ where: { user_id: interaction.user.id } });
 
             if (existingUser) {

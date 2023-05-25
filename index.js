@@ -94,8 +94,6 @@ client.on(Events.MessageCreate, async message => {
 
     const vpToAdd = Math.min(user.vp_remaining, 5); // Calculate the VP to add, limited to 5 VP per message and up to a maximum of 320 every 8 hours
 
-	console.log(user.vp_remaining);
-
     if (vpToAdd <= 0) {
         return;
     }
