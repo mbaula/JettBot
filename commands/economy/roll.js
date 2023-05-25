@@ -76,7 +76,7 @@ module.exports = {
             embed.setImage(loadingGIF);
             const reply = await interaction.reply({ embeds: [embed] });
 
-            await new Promise(resolve => setTimeout(resolve, 3200));
+            await new Promise(resolve => setTimeout(resolve, 3100));
 
             user.balance -= 160;
             await user.save();
