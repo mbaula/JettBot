@@ -73,7 +73,7 @@ module.exports = {
             const balance = user ? user.balance : 0;
 
             if (balance < amount) {
-            return interaction.reply("You don't have enough currency to place that bet.");
+                return interaction.reply("You don't have enough currency to place that bet.");
             }
 
             if(user.blackjack_game === true) {
@@ -216,7 +216,7 @@ module.exports = {
                 embeds: [
                     new EmbedBuilder()
                     .setTitle(`Result: ${result}`)
-                    .setColor('#CC9911')
+                    .setColor('#2e8296')
                     .setDescription(`Your hand: ${playerCardsString} (Total: ${playerHandValue})\nDealer's hand: ${dealerCardsString} (Total: ${dealerHandValue})`)
                 ]
             });
