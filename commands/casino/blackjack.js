@@ -76,11 +76,11 @@ module.exports = {
                 return interaction.reply("You don't have enough currency to place that bet.");
             }
 
-            if(user.blackjack_game === true) {
+            if(user.game_ongoing === true) {
                 return interaction.reply("Please finish your previous game before starting a new one. You scammer :/");
             }
 
-            user.blackjack_game = true;
+            user.game_ongoing = true;
             user.balance -= amount;
             await user.save();
 
@@ -202,7 +202,7 @@ module.exports = {
                 user.balance += amount;
             }
 
-            user.blackjack_game = false;
+            user.game_ongoing = false;
             await user.save();
 
             // Display the final result
@@ -221,7 +221,8 @@ module.exports = {
             });
         } catch (error) {
             console.error('An error occurred:', error);
-            user.blackjack_game = false;
+            user.balance += amount;
+            user.game_ongoing = false;
         }
     },
 };
