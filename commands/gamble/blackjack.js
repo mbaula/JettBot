@@ -93,7 +93,6 @@ module.exports = {
             playerHand.push(drawCard(deck));
             dealerHand.push(drawCard(deck));
             playerHand.push(drawCard(deck));
-            dealerHand.push(drawCard(deck));
 
             // Display initial hands
             let playerHandValue = calculateHandValue(playerHand);
