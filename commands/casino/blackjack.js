@@ -128,12 +128,14 @@ module.exports = {
 
                     if (handValue > 21 || handValue === 21) {
                         gameOver = true;
-                        embeds: [
-                            new EmbedBuilder()
-                            .setTitle(`You drew: ${playerHand[playerHand.length - 1].name}`)
-                            .setColor('#CC9911')
-                            .setDescription(`Your hand: ${playerCardsString} (Total: ${handValue})\nDealer's hand: ${dealerCardsString} (Total: ${dealerHandValue}) \n\n Please type 'hit' or 'stand' to continue.`)
-                        ]
+                        await interaction.channel.send({
+                            embeds: [
+                                new EmbedBuilder()
+                                .setTitle(`You drew: ${playerHand[playerHand.length - 1].name}`)
+                                .setColor('#CC9911')
+                                .setDescription(`Your hand: ${playerCardsString} (Total: ${handValue})\nDealer's hand: ${dealerCardsString} (Total: ${dealerHandValue}) \n\n Please type 'hit' or 'stand' to continue.`)
+                            ]
+                        });
                         break;
                     }
 

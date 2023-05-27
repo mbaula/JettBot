@@ -20,6 +20,7 @@ module.exports = {
         .setDescription('Amount of currency to bet.')
         .setRequired(true)),
         async execute(interaction) {
+          try {
             const embed = new EmbedBuilder();
             const amount = interaction.options.getInteger('amount');
               
@@ -29,6 +30,14 @@ module.exports = {
             if (balance < amount) {
               return interaction.reply("You don't have enough currency to place that bet.");
             }
+
+            if (user.game_ongoing) {
+              return interaction.reply("Please finish your previous game before starting a new one.");
+            }
+
+            user.balance -= amount;
+            user.game_ongoing = true;
+            await user.save();
           
             const reels = Array.from({ length: 3 }, () => '?');
 
@@ -55,7 +64,8 @@ module.exports = {
             const matchedSymbol = uniqueSymbols.size === 1 ? Array.from(uniqueSymbols)[0] : null;
             const payout = matchedSymbol ? symbolValues[matchedSymbol] * amount : 0;
             
-            user.balance += payout - amount;
+            user.balance += payout;
+            user.game_ongoing = false;
             await user.save();
           
             const resultString = reels.join(' ');
@@ -67,5 +77,10 @@ module.exports = {
             .setDescription(`[${resultString}]\n${outcome}\nYour balance: ${newBalance} VP`);
 
             interaction.editReply({ embeds: [embed] });
+          } catch (error) {
+            console.error('An error occurred:', error);
+            user.balance += amount;
+            user.game_ongoing = false;
+          }
         }          
 };
