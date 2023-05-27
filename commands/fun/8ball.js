@@ -3,7 +3,7 @@ const { SlashCommandBuilder } = require('@discordjs/builders');
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('8ball')
-        .setDescription('Ask the magic 8ball Janet a question')
+        .setDescription('Ask the magic 8ball Jett a question')
         .addStringOption(option =>
         option.setName('question')
             .setDescription('The question to ask')

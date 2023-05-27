@@ -4,7 +4,7 @@ const { SlashCommandBuilder } = require('discord.js');
 module.exports = {
   data: new SlashCommandBuilder()
     .setName('joke')
-    .setDescription('Ask Janet a joke!'),
+    .setDescription('Ask Jett a joke!'),
   async execute(interaction) {
     try {
       const response = await fetch('https://official-joke-api.appspot.com/random_joke');

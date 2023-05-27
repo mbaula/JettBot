@@ -3,7 +3,7 @@ const { SlashCommandBuilder } = require('discord.js');
 module.exports = {
     data: new SlashCommandBuilder()
       .setName('rizz')
-      .setDescription('Janet rates your rizz!')
+      .setDescription('Jett rates your rizz!')
       .addUserOption(option => (
         option.setName('user')
           .setDescription('The user to rate')

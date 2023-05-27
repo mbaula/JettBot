@@ -20,7 +20,7 @@
     "uuidv5": "^1.0.0",
     "youtube-sr": "^4.3.4"
   },
-  "name": "janetBot",
+  "name": "JettBot",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
