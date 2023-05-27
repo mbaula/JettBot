@@ -1,6 +1,16 @@
 const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
 const { Users } = require('../../dbObjects.js');
 
+function getColor(number) {
+    if (number === 0) {
+      return 'Green';
+    } else if ([1, 3, 5, 7, 9, 12, 14, 16, 18, 19, 21, 23, 25, 27, 30, 32, 34, 36].includes(number)) {
+      return 'Red';
+    } else {
+      return 'Black';
+    }
+}
+
 module.exports = {
     data: new SlashCommandBuilder()
       .setName('roulette')
@@ -53,6 +63,7 @@ module.exports = {
 
                     // Simulate the roulette spin
                     const result = Math.floor(Math.random() * 37); // Generate a random number between 0 and 36
+                    const resultColor = getColor(result);
 
                     const rouletteGIF = 'https://media4.giphy.com/media/26uflBhaGt5lQsaCA/giphy.gif'; 
 
@@ -60,12 +71,12 @@ module.exports = {
                     if (color) {
                         const isRed = [1, 3, 5, 7, 9, 12, 14, 16, 18, 19, 21, 23, 25, 27, 30, 32, 34, 36].includes(result);
                         const isBlack = [2, 4, 6, 8, 10, 11, 13, 15, 17, 20, 22, 24, 26, 28, 29, 31, 33, 35].includes(result);
-                
                         if ((color === 'red' && isRed) || (color === 'black' && isBlack)) {
                             outcome += 'You won the color bet!\n';
                             user.balance += amount * 2;
                             user.game_ongoing = false;
                             await user.save();
+                            win = true;
                         } else {
                             outcome += 'You lost the color bet.\n';
                             user.game_ongoing = false;
@@ -86,6 +97,7 @@ module.exports = {
                             user.balance += amount * 35;
                             user.game_ongoing = false;
                             await user.save();
+                            win = true;
                         } else {
                             outcome += 'You lost the number bet.\n';
                             user.game_ongoing = false;
@@ -104,9 +116,15 @@ module.exports = {
 
                     embed.setColor('#e96d03')
                     .setTitle('Roulette Result')
-                    .setDescription(`The ball lands on ${result}. ${outcome} \n Your balance: ${user.balance} VP`);
+                    .setDescription(`The ball lands on ${resultColor} ${result}.\n You bet Color: ${color || 'None'}, Number: ${number || 'None'} \n 
+                                    ${outcome} \n Your balance: ${user.balance} VP`);
                     
-                    embed.setImage(`https://static.wikia.nocookie.net/valorant/images/0/08/Yikes_Spray.png/revision/latest/scale-to-width-down/250?cb=20210909112730`)
+                    if(win === true){
+                        embed.setImage(`https://steamuserimages-a.akamaihd.net/ugc/1720912790917412447/529240DFA7BF916594151B74F9C397D692C1BB13/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false`);
+                    }
+                    else{
+                        embed.setImage(`https://static.wikia.nocookie.net/valorant/images/0/08/Yikes_Spray.png/revision/latest/scale-to-width-down/250?cb=20210909112730`);
+                    }
 
                     interaction.editReply({ embeds: [embed] });;
                 } catch (error) {

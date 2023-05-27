@@ -7,7 +7,7 @@ module.exports = {
         .setDescription('Get a random dog picture'),
     async execute(interaction) {
         try {
-            const response = await fetch('https://place.dog/600/400');
+            const response = await fetch('https://placedog.net/640/480?random');
             const buffer = await response.buffer();
             
             // Send the dog picture as a file attachment
