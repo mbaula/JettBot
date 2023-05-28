@@ -1,6 +1,19 @@
 # JettBot
 JettBot is a feature-rich Discord bot built with Discord.js, Sequelize, and Distube. It provides a full-fledged economy system with a database, as well as fun gambling commands like roulette, blackjack, and slots. It also offers Valorant-specific commands such as picking random agents and a gacha system for rolling Valorant skins. It also offers music playing functionality.
 
+**Blackjack**
+
+![image](https://github.com/mbaula/JettBot/assets/57877999/35fde3eb-4587-45ef-83a6-b3aec64ef5d7)
+
+**Valorant Skin Collection**
+
+![image](https://github.com/mbaula/JettBot/assets/57877999/54ae869e-a37c-4a55-96f5-29b07e9b63fe)
+![image](https://github.com/mbaula/JettBot/assets/57877999/6a1f2822-af9f-4e69-9103-bda06e26af73) 
+
+**Slots**
+
+![image](https://github.com/mbaula/JettBot/assets/57877999/cf234227-d061-49aa-aaae-ecc754cefeb8)
+
 ## Installation
 
 1. Clone the repository. In your terminal:
@@ -43,7 +56,7 @@ Use ```/help``` for more info
 
 ## Motivation
 
-ValorantBot was created with the following motivations in mind:
+JettBot was created with the following motivations in mind:
 
 - **Community Engagement:** I wanted a fun way for the users in the Discord servers I was in to be able to interact with one another. Since a lot of us played valorant, I thought creating a valorant-related bot would be a great way to promote engagement and interaction as well as friendly competition among our server members. Some of the features such as the ability to gamble virtual currency that the user can earn adds excitement and promotes daily activity within the server. Collecting valorant skins also provide users with a sense of progression and achievement the more they participate within the server. The bot also provides many entertainment features such as generating jokes, sharing reddit memes, GIF interactions and rating users 'rizz.' These are features that are whimsical and aim to make users laugh. Lastly, I noticed that many of the bots that are supposed to support playing music, did not work anymore. Since I had trouble finding one that worked, I decided to make it myself.
 
