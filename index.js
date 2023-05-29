@@ -111,6 +111,18 @@ client.on(Events.InteractionCreate, async interaction => {
 
 	if (!command) return;
 
+	const userId = interaction.user.id;
+
+	let [user, created] = await Users.findOrCreate({
+		where: { user_id: userId },
+	});
+    if (created) {
+		// A new user was created
+		console.log('New user created:', user.user_id);
+	} else {
+		// User already exists
+	}
+
 	try {
 		await command.execute(interaction, client);
 	} catch (error) {
