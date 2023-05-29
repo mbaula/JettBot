@@ -116,9 +116,9 @@ client.on(Events.InteractionCreate, async interaction => {
 	} catch (error) {
 		console.error(error);
 		if (interaction.replied || interaction.deferred) {
-			await interaction.followUp({ content: 'There was an error while executing this command!', ephemeral: true });
+			await interaction.followUp({ content: 'There was an error while executing this command! If this is your first time trying to interact with JettBot, please type a regular message first before using JettBot commands.', ephemeral: true });
 		} else {
-			await interaction.reply({ content: 'There was an error while executing this command!', ephemeral: true });
+			await interaction.reply({ content: 'There was an error while executing this command! If this is your first time trying to interact with JettBot, please type a regular message first before using JettBot commands.', ephemeral: true });
 		}
 	}
 });
