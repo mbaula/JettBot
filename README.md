@@ -1,5 +1,5 @@
 # JettBot
-JettBot is a feature-rich Discord bot built with Discord.js, Sequelize, and Distube. It provides a full-fledged economy system with a database, as well as fun gambling commands like roulette, blackjack, and slots. It also offers Valorant-specific commands such as picking random agents and a gacha system for rolling Valorant skins. It also offers music playing functionality.
+JettBot is a feature-rich **single-guild** Discord bot built with Discord.js, Sequelize, Distube, and deployed with Heroku. It provides a full-fledged economy system with a database, as well as fun gambling commands like roulette, blackjack, and slots. It also offers Valorant-specific commands such as picking random agents and a gacha system for rolling Valorant skins. It also offers music playing functionality.
 
 **Blackjack**
 
