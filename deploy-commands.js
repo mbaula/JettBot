@@ -6,6 +6,7 @@ const path = require('path');
 const commands = [];
 const foldersPath = path.join(__dirname, 'commands');
 const commandFolders = fs.readdirSync(foldersPath);
+require("dotenv").config();
 
 for (const folder of commandFolders) {
   const commandsPath = path.join(foldersPath, folder);

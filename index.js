@@ -2,11 +2,11 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const { Client, codeBlock, Collection, Events, GatewayIntentBits } = require('discord.js');
-const { token } = process.env.token
 const { Op } = require('sequelize');
 const { Users, CurrencyShop } = require('./dbObjects.js');
 const { DisTube } = require("distube");
 const { SpotifyPlugin } = require("@distube/spotify");
+require("dotenv").config();
 
 // Create a new client instance
 const client = new Client({ intents: ["Guilds", "GuildMessages", "GuildVoiceStates","MessageContent"]});
@@ -124,4 +124,4 @@ client.on(Events.InteractionCreate, async interaction => {
 });
 
 module.exports = {client, addBalance};
-client.login(token);
+client.login(process.env.token);

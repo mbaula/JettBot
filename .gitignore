@@ -2,3 +2,4 @@ config.json
 node_modules/
 database.sqlite
 *.sqlite
+.env
