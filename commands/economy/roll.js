@@ -57,8 +57,6 @@ module.exports = {
                     starLevel: skinStar,
                 };
 
-                console.log('ITEM', item)
-
                 await existingUser.addItem(item);
             } else {
                 console.error('User not found:', interaction.user.id);
