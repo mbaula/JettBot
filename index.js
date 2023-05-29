@@ -2,7 +2,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const { Client, codeBlock, Collection, Events, GatewayIntentBits } = require('discord.js');
-const { token } = require('./config.json');
+const { token } = process.env.token
 const { Op } = require('sequelize');
 const { Users, CurrencyShop } = require('./dbObjects.js');
 const { DisTube } = require("distube");
